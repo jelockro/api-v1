@@ -1,5 +1,5 @@
 from pymongo import MongoClient
-import sys
+import sys, json
 HOST = 'plxlb-mongo02.netsmartlab.lan'
 
 class MongoDB:
@@ -25,9 +25,15 @@ class MongoDB:
     # passi in database object
     def get_client_ids(self, database):
         client_ids = []
-        for names in database.collection_names():
-            print(names)
-
+        for name in database.collection_names():
+            if name[0] == '_':
+                continue
+            else:
+                client_ids.append(name)
+        # sorts list in place, will return nonetype if placed inside return statement.
+        client_ids.sort()
+        client_ids = json.dumps(client_ids)
+        return client_ids
 
 
 

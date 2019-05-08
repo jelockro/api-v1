@@ -1,1 +1,1 @@
-from .mongo_connect import
+from .mongo_connect import MongoDB
