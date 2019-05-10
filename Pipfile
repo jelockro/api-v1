@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 flask = "*"
 pymongo = "*"
+celery = {version = "*",extras = ["redis"]}
 
 [requires]
 python_version = "3.5"

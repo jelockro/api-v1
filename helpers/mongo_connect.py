@@ -1,6 +1,9 @@
 from pymongo import MongoClient
+from celery.utils.log import get_task_logger
 import sys, json
+
 HOST = 'plxlb-mongo02.netsmartlab.lan'
+logger = get_task_logger
 
 class MongoDB:
  
@@ -22,7 +25,7 @@ class MongoDB:
     def getDB(self, database_name):
         return self.client[database_name]
 
-    # passi in database object
+    # pass in database object
     def get_client_ids(self, database):
         client_ids = []
         for name in database.collection_names():
@@ -30,9 +33,8 @@ class MongoDB:
                 continue
             else:
                 client_ids.append(name)
-        # sorts list in place, will return nonetype if placed inside return statement.
         client_ids.sort()
-        client_ids = json.dumps(client_ids)
+        client_ids = '{"client_ids": %s}' %(json.dumps(client_ids))
         return client_ids
 
 
