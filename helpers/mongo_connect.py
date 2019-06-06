@@ -2,11 +2,9 @@ from pymongo import MongoClient
 from celery.utils.log import get_task_logger
 import sys, json
 
-HOST = 'plxlb-mongo02.netsmartlab.lan'
-logger = get_task_logger
-
+from setup_logger import logger
 class MongoDB:
- 
+    
     def __init__(self, HOST):
         self.client = self.connect(HOST)
 
@@ -19,7 +17,17 @@ class MongoDB:
             from urllib import quote_plus
         uri = "mongodb://%s:%s@%s" % (
             quote_plus('NetsmartAdmin'), quote_plus('Netsmart99'), HOST)
-        return MongoClient(uri, 27017) 
+        connection = MongoClient(uri, 27017)
+        logger.info('Connection!') 
+        if connection is None:
+            # logfile.debug('Unable to connect to mongo database: %s', uri)
+            # logconsole.debug('Unable to connect to mongo database: %s', uri)
+            return
+        else:           
+            # logfile.debug('successful connection to mongo database: %s ', uri)
+            # logconsole.debug('successful connection to mongo database: %s ', uri)
+            logger.info('Connection Works!') 
+            return connection
         
     # creates database object
     def getDB(self, database_name):
@@ -37,10 +45,8 @@ class MongoDB:
         client_ids = '{"client_ids": %s}' %(json.dumps(client_ids))
         return client_ids
 
+def main():
+    print("implement this later")
 
-
-    def main():
-        print("implement this later")
-
-    if __name__ == "__main__":
-        main()
+if __name__ == "__main__":
+    main()

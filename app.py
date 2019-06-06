@@ -1,14 +1,19 @@
+#!/usr/bin/env python
+
 from flask import Flask
 from routes.mongo_router import mongo
 from routes.puppet_router import puppet
 from proj import tasks
+
+from setup_logger import logger
+
 app = Flask(__name__)
 
 
 # blueprint configuration
 app.register_blueprint(mongo)
 app.register_blueprint(puppet)
-
+app.debug = True
 
 
 @app.route('/')
@@ -29,4 +34,5 @@ def process(name):
 #     return string[::-1]
 
 if __name__ == '__main__':
+    logger.info('Started')
     app.run(host='0.0.0.0', port=5000)
