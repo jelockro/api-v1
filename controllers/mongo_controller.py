@@ -2,7 +2,7 @@ from helpers.mongo_connect import MongoDB
 from setup_logger import logger, error_logger
 HOST = 'localhost'
 import json
-
+from bson import json_util
 
 def call_mongo():
     logger.info('Watch out!') 
@@ -29,6 +29,18 @@ def get_vision_client_collection(id):
     # return client_ids as json
     return cx.get_client_collection(hiera_vision, id_string)
 
+
+def get_vision_client_web_document(id):
+    logger.info('get_vision_client_web_document called')
+    cx = MongoDB(HOST)
+    id_string = str(id)
+    hiera_vision = cx.getDB('hiera_vision')
+    client_document = cx.get_client_collection(hiera_vision, id_string)
+    client_dictionary = json.loads(client_document)
+    web_document = client_dictionary['vision']['environments']['LIVE']['web']
+    return json.dumps(web_document)
+
+
 def get_vision_client_web_version(id):
     logger.info('get_vision_client_web_version called')
     cx = MongoDB(HOST)
@@ -37,7 +49,18 @@ def get_vision_client_web_version(id):
     client_document = cx.get_client_collection(hiera_vision, id_string)
     client_dictionary = json.loads(client_document)
     web_version = client_dictionary['vision']['environments']['LIVE']['web']['version']
-    return web_version
+    return json.dumps(web_version)
+
+def get_vision_client_crm_version(id):
+    logger.info('get_vision_client_web_version called')
+    cx = MongoDB(HOST)
+    id_string = str(id)
+    hiera_vision = cx.getDB('hiera_vision')
+    client_document = cx.get_client_collection(hiera_vision, id_string)
+    client_dictionary = json.loads(client_document)
+    web_version = client_dictionary['vision']['environments']['LIVE']['web']['crm_version']
+    return json.dumps(web_version)
+
 
 
 def get_evolv_client_ids():

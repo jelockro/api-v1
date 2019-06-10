@@ -17,17 +17,27 @@ def vision_clients():
 
 @mongo.route("/mongo/vision/<int:client_id>")
 def vision_client(client_id):
-    logger.info('route called')
+    logger.info('/mongo/vision/<client_id> route called')
     return get_vision_client_collection(client_id)
 
 
-@mongo.route("/mongo/vision/<int:client_id>/web/version")
+@mongo.route("/mongo/vision/<int:client_id>/webapp")
+def vision_client_web(client_id):
+    logger.info('/mongo/vision/<client_id>/webdapp route called')
+    return get_vision_client_web_document(client_id)
+
+
+
+@mongo.route("/mongo/vision/<int:client_id>/webapp/version")
 def vision_client_web_version(client_id):
-    logger.info('route called')
+    logger.info('/mongo/vision/<int:client_id>/web/version route called')
     return get_vision_client_web_version(client_id)
 
 
-
+@mongo.route("/mongo/vision/<int:client_id>/webapp/crm_version")
+def vision_client_crm_version(client_id):
+    logger.info('/mongo/vision/<int:client_id>/web/crm_version route called')
+    return get_vision_client_crm_version(client_id)
 
 
 @mongo.route("/mongo/client_ids/evolv")

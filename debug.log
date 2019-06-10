@@ -209,3 +209,118 @@ INFO 2019-06-10 13:53:11,488 mongo_router 24256 139890886850304 route called
 INFO 2019-06-10 13:53:11,489 mongo_controller 24256 139890886850304 get_vision_client_web_version called
 INFO 2019-06-10 13:53:11,491 mongo_connect 24256 139890886850304 Connection!
 INFO 2019-06-10 13:53:11,492 mongo_connect 24256 139890886850304 Connection Works!
+INFO 2019-06-10 13:55:47,089 app 24385 140155284133632 Started
+INFO 2019-06-10 13:56:54,656 app 24430 140393046353664 Started
+INFO 2019-06-10 13:57:21,294 mongo_router 24430 140392875943680 route called
+INFO 2019-06-10 13:58:21,286 mongo_router 24430 140392884336384 route called
+INFO 2019-06-10 13:58:25,954 mongo_router 24430 140392875943680 route called
+INFO 2019-06-10 13:58:49,689 app 24502 140482977617664 Started
+INFO 2019-06-10 13:58:50,187 app 24507 140062113814272 Started
+INFO 2019-06-10 13:59:30,579 mongo_router 24507 140062011299584 route called
+INFO 2019-06-10 13:59:30,580 mongo_controller 24507 140062011299584 get_vision_client_ids called
+INFO 2019-06-10 13:59:30,582 mongo_connect 24507 140062011299584 Connection!
+INFO 2019-06-10 13:59:30,583 mongo_connect 24507 140062011299584 Connection Works!
+INFO 2019-06-10 14:00:32,045 app 24572 140382268376832 Started
+INFO 2019-06-10 14:00:32,517 app 24576 140670986807040 Started
+INFO 2019-06-10 14:01:08,575 app 24600 140376581125888 Started
+INFO 2019-06-10 14:03:02,601 app 24658 140231651374848 Started
+INFO 2019-06-10 14:03:03,148 app 24662 140622823520000 Started
+INFO 2019-06-10 14:04:14,796 mongo_router 24662 140622729398016 route called
+INFO 2019-06-10 14:04:14,797 mongo_controller 24662 140622729398016 get_vision_client_web_version called
+INFO 2019-06-10 14:04:14,809 mongo_connect 24662 140622729398016 Connection!
+INFO 2019-06-10 14:04:14,809 mongo_connect 24662 140622729398016 Connection Works!
+INFO 2019-06-10 14:06:08,313 app 24773 140522054641408 Started
+INFO 2019-06-10 14:06:08,842 app 24777 140295045740288 Started
+INFO 2019-06-10 14:06:13,175 mongo_router 24777 140294943225600 /mongo/vision/<int:client_id>/web/version route called
+INFO 2019-06-10 14:06:13,176 mongo_controller 24777 140294943225600 get_vision_client_web_version called
+INFO 2019-06-10 14:06:13,184 mongo_connect 24777 140294943225600 Connection!
+INFO 2019-06-10 14:06:13,184 mongo_connect 24777 140294943225600 Connection Works!
+INFO 2019-06-10 14:07:01,359 mongo_router 24777 140294951618304 /mongo/vision/<client_id> route called
+INFO 2019-06-10 14:07:01,359 mongo_controller 24777 140294951618304 get_vision_client_ids called
+INFO 2019-06-10 14:07:01,362 mongo_connect 24777 140294951618304 Connection!
+INFO 2019-06-10 14:07:01,363 mongo_connect 24777 140294951618304 Connection Works!
+INFO 2019-06-10 14:07:50,634 app 24844 140323311703808 Started
+INFO 2019-06-10 14:07:53,425 mongo_router 24844 140323217581824 /mongo/vision/<client_id> route called
+INFO 2019-06-10 14:07:53,425 mongo_controller 24844 140323217581824 get_vision_client_ids called
+INFO 2019-06-10 14:07:53,428 mongo_connect 24844 140323217581824 Connection!
+INFO 2019-06-10 14:07:53,428 mongo_connect 24844 140323217581824 Connection Works!
+INFO 2019-06-10 14:07:56,883 mongo_router 24844 140323209189120 /mongo/vision/<int:client_id>/web/version route called
+INFO 2019-06-10 14:07:56,883 mongo_controller 24844 140323209189120 get_vision_client_web_version called
+INFO 2019-06-10 14:07:56,886 mongo_connect 24844 140323209189120 Connection!
+INFO 2019-06-10 14:07:56,886 mongo_connect 24844 140323209189120 Connection Works!
+INFO 2019-06-10 14:08:22,124 app 24874 139797032711936 Started
+INFO 2019-06-10 14:08:22,657 app 24878 139904771110656 Started
+INFO 2019-06-10 14:08:26,840 mongo_router 24878 139904676988672 /mongo/vision/<client_id>/web route called
+INFO 2019-06-10 14:08:56,169 app 24906 140313408673536 Started
+INFO 2019-06-10 14:08:56,631 app 24911 140459383719680 Started
+INFO 2019-06-10 14:09:03,190 mongo_router 24911 140459289597696 /mongo/vision/<client_id>/webdoc route called
+INFO 2019-06-10 14:09:03,191 mongo_controller 24911 140459289597696 get_vision_client_web_document called
+INFO 2019-06-10 14:09:03,194 mongo_connect 24911 140459289597696 Connection!
+INFO 2019-06-10 14:09:03,194 mongo_connect 24911 140459289597696 Connection Works!
+INFO 2019-06-10 14:09:35,875 app 24944 140081976850176 Started
+INFO 2019-06-10 14:09:38,083 mongo_router 24944 140081882728192 /mongo/vision/<client_id>/webdoc route called
+INFO 2019-06-10 14:09:38,083 mongo_controller 24944 140081882728192 get_vision_client_web_document called
+INFO 2019-06-10 14:09:38,086 mongo_connect 24944 140081882728192 Connection!
+INFO 2019-06-10 14:09:38,086 mongo_connect 24944 140081882728192 Connection Works!
+INFO 2019-06-10 14:09:41,573 mongo_router 24944 140081865942784 /mongo/vision/<client_id>/webdoc route called
+INFO 2019-06-10 14:09:41,573 mongo_controller 24944 140081865942784 get_vision_client_web_document called
+INFO 2019-06-10 14:09:41,575 mongo_connect 24944 140081865942784 Connection!
+INFO 2019-06-10 14:09:41,575 mongo_connect 24944 140081865942784 Connection Works!
+INFO 2019-06-10 14:12:03,543 app 25029 140362050541312 Started
+INFO 2019-06-10 14:12:05,156 mongo_router 25029 140361956419328 /mongo/vision/<client_id>/webdoc route called
+INFO 2019-06-10 14:12:05,157 mongo_controller 25029 140361956419328 get_vision_client_web_document called
+INFO 2019-06-10 14:12:05,159 mongo_connect 25029 140361956419328 Connection!
+INFO 2019-06-10 14:12:05,160 mongo_connect 25029 140361956419328 Connection Works!
+INFO 2019-06-10 14:12:54,945 app 25069 140293109884672 Started
+INFO 2019-06-10 14:12:57,019 mongo_router 25069 140293015762688 /mongo/vision/<client_id>/webdoc route called
+INFO 2019-06-10 14:12:57,019 mongo_controller 25069 140293015762688 get_vision_client_web_document called
+INFO 2019-06-10 14:12:57,021 mongo_connect 25069 140293015762688 Connection!
+INFO 2019-06-10 14:12:57,021 mongo_connect 25069 140293015762688 Connection Works!
+INFO 2019-06-10 14:13:11,847 mongo_router 25069 140292998977280 /mongo/vision/<client_id>/webdoc route called
+INFO 2019-06-10 14:13:11,848 mongo_controller 25069 140292998977280 get_vision_client_web_document called
+INFO 2019-06-10 14:13:11,850 mongo_connect 25069 140292998977280 Connection!
+INFO 2019-06-10 14:13:11,850 mongo_connect 25069 140292998977280 Connection Works!
+INFO 2019-06-10 14:13:14,549 mongo_router 25069 140292970301184 /mongo/vision/<client_id>/webdoc route called
+INFO 2019-06-10 14:13:14,549 mongo_controller 25069 140292970301184 get_vision_client_web_document called
+INFO 2019-06-10 14:13:14,553 mongo_connect 25069 140292970301184 Connection!
+INFO 2019-06-10 14:13:14,554 mongo_connect 25069 140292970301184 Connection Works!
+INFO 2019-06-10 14:14:01,166 app 25135 139918858835712 Started
+INFO 2019-06-10 14:14:02,722 mongo_router 25135 139918693103360 /mongo/vision/<client_id>/webdoc route called
+INFO 2019-06-10 14:14:02,723 mongo_controller 25135 139918693103360 get_vision_client_web_document called
+INFO 2019-06-10 14:14:02,725 mongo_connect 25135 139918693103360 Connection!
+INFO 2019-06-10 14:14:02,725 mongo_connect 25135 139918693103360 Connection Works!
+INFO 2019-06-10 14:15:05,661 app 25179 140353384597248 Started
+INFO 2019-06-10 14:15:10,491 mongo_router 25179 140353222997760 /mongo/vision/<client_id>/webdapp route called
+INFO 2019-06-10 14:15:10,493 mongo_controller 25179 140353222997760 get_vision_client_web_document called
+INFO 2019-06-10 14:15:10,498 mongo_connect 25179 140353222997760 Connection!
+INFO 2019-06-10 14:15:10,499 mongo_connect 25179 140353222997760 Connection Works!
+INFO 2019-06-10 14:15:18,159 mongo_router 25179 140353214605056 /mongo/vision/<int:client_id>/web/version route called
+INFO 2019-06-10 14:15:18,159 mongo_controller 25179 140353214605056 get_vision_client_web_version called
+INFO 2019-06-10 14:15:18,161 mongo_connect 25179 140353214605056 Connection!
+INFO 2019-06-10 14:15:18,161 mongo_connect 25179 140353214605056 Connection Works!
+INFO 2019-06-10 14:15:21,849 mongo_router 25179 140353222997760 /mongo/vision/<client_id>/webdapp route called
+INFO 2019-06-10 14:15:21,849 mongo_controller 25179 140353222997760 get_vision_client_web_document called
+INFO 2019-06-10 14:15:21,851 mongo_connect 25179 140353222997760 Connection!
+INFO 2019-06-10 14:15:21,852 mongo_connect 25179 140353222997760 Connection Works!
+INFO 2019-06-10 14:18:25,449 app 25295 140555302680320 Started
+INFO 2019-06-10 14:18:25,976 app 25300 140048999827200 Started
+INFO 2019-06-10 14:18:28,607 mongo_router 25300 140048905705216 /mongo/vision/<client_id>/webdapp route called
+INFO 2019-06-10 14:18:28,607 mongo_controller 25300 140048905705216 get_vision_client_web_document called
+INFO 2019-06-10 14:18:28,610 mongo_connect 25300 140048905705216 Connection!
+INFO 2019-06-10 14:18:28,610 mongo_connect 25300 140048905705216 Connection Works!
+INFO 2019-06-10 14:19:01,884 mongo_router 25300 140048905705216 /mongo/vision/<int:client_id>/web/crm_version route called
+INFO 2019-06-10 14:19:01,885 mongo_controller 25300 140048905705216 get_vision_client_web_version called
+INFO 2019-06-10 14:19:01,886 mongo_connect 25300 140048905705216 Connection!
+INFO 2019-06-10 14:19:01,886 mongo_connect 25300 140048905705216 Connection Works!
+INFO 2019-06-10 14:19:05,797 mongo_router 25300 140048808797952 /mongo/vision/<int:client_id>/web/version route called
+INFO 2019-06-10 14:19:05,797 mongo_controller 25300 140048808797952 get_vision_client_web_version called
+INFO 2019-06-10 14:19:05,799 mongo_connect 25300 140048808797952 Connection!
+INFO 2019-06-10 14:19:05,800 mongo_connect 25300 140048808797952 Connection Works!
+INFO 2019-06-10 14:19:12,610 mongo_router 25300 140048905705216 /mongo/vision/<client_id>/webdapp route called
+INFO 2019-06-10 14:19:12,610 mongo_controller 25300 140048905705216 get_vision_client_web_document called
+INFO 2019-06-10 14:19:12,612 mongo_connect 25300 140048905705216 Connection!
+INFO 2019-06-10 14:19:12,613 mongo_connect 25300 140048905705216 Connection Works!
+INFO 2019-06-10 14:19:43,147 mongo_router 25300 140048905705216 /mongo/vision/<client_id> route called
+INFO 2019-06-10 14:19:43,147 mongo_controller 25300 140048905705216 get_vision_client_ids called
+INFO 2019-06-10 14:19:43,149 mongo_connect 25300 140048905705216 Connection!
+INFO 2019-06-10 14:19:43,150 mongo_connect 25300 140048905705216 Connection Works!
