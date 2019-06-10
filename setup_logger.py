@@ -20,22 +20,27 @@ CONFIG = {
     },
     'handlers': {
         'debug_file': {
-            'level':'DEBUG',
-            'class':'logging.FileHandler',
+            'level': 'DEBUG',
+            'class': 'logging.FileHandler',
             'filename': 'debug.log',
             'formatter': 'verbose'
         },
         'console':{
-            'level':'DEBUG',
-            'class':'logging.StreamHandler',
+            'level': 'DEBUG',
+            'class': 'logging.StreamHandler',
             'formatter': 'simple'
         }
     },
     'loggers': {
-        'debug': {
-            'handlers':['debug_file', 'console'],
+        'log_file': {
+            'handlers': ['debug_file', 'console'],
             'propagate': True,
             'level': 'DEBUG'
+        },
+        'error': {
+            'handlers': ['console'],
+            'propagate': True,
+            'level': 'CRITICAL'
         },
         # 'django.request': {
         #     'handlers': ['mail_admins'],
@@ -51,4 +56,5 @@ CONFIG = {
 }
 
 logging.config.dictConfig(CONFIG)
-logger = logging.getLogger('debug')
+logger = logging.getLogger('log_file')
+error_logger = logging.getLogger('error')

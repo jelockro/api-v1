@@ -1,6 +1,8 @@
 from pymongo import MongoClient
 from celery.utils.log import get_task_logger
 import sys, json
+import pprint
+from bson import json_util
 
 from setup_logger import logger
 class MongoDB:
@@ -21,7 +23,7 @@ class MongoDB:
         logger.info('Connection!') 
         if connection is None:
             # logfile.debug('Unable to connect to mongo database: %s', uri)
-            # logconsole.debug('Unable to connect to mongo database: %s', uri)
+            logger.warning('Unable to connect to mongo database: %s', uri)
             return
         else:           
             # logfile.debug('successful connection to mongo database: %s ', uri)
@@ -44,6 +46,16 @@ class MongoDB:
         client_ids.sort()
         client_ids = '{"client_ids": %s}' %(json.dumps(client_ids))
         return client_ids
+
+    def get_client_collection(self, database, client_id):
+        client_collection = database[client_id]
+        print(client_collection)
+        #client_collection_json = '{"client_collection": %s}' %(json.dumps(client_collection))
+        pprint.pprint(client_collection.find_one())
+        print(type(client_collection.find_one()))
+        data = client_collection.find_one()
+
+        return json.dumps(data, default=json_util.default)
 
 def main():
     print("implement this later")
