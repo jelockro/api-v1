@@ -8,7 +8,7 @@ sys.path.insert(1, os.path.join(sys.path[0], '..'))
 sys.path.append('~/home/vagrant/api_v1/application_package')
 sys.path.append('~/home/vagrant/api_v1/application_package/helpers')
 from mongo_connect import MongoDB
-print(sys.path)
+#print(sys.path)
 
 
 def printnested(dictionary, level):
@@ -49,7 +49,7 @@ def make_hierarchy(dictionaryIn, dictionaryOut, level, parent):
             print(indent, '{' + str(level) + '}' + ' ' + key + ':')
             make_hierarchy(dictionaryIn[key], dictionaryOut, level, path)
         else:
-            print(indent, '{' + str(level) + '}' + '{}: '.format(key), dictionaryIn  [key])
+            print(indent, '{' + str(level) + '}' + '{}: '.format(key), dictionaryIn[key])
     level -= 1
 
 
