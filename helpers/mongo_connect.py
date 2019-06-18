@@ -1,5 +1,4 @@
-from pymongo import MongoClient
-from celery.utils.log import get_task_logger
+from pymongo import *
 import sys, json
 import pprint
 from bson import json_util
@@ -49,13 +48,12 @@ class MongoDB:
 
     def get_client_collection(self, database, client_id):
         client_collection = database[client_id]
-        print(client_collection)
-        #client_collection_json = '{"client_collection": %s}' %(json.dumps(client_collection))
-        pprint.pprint(client_collection.find_one())
-        print(type(client_collection.find_one()))
+        #pprint.pprint(client_collection.find_one())
         data = client_collection.find_one()
 
         return json.dumps(data, default=json_util.default)
+
+    # def update_client_collection(self, database,  ):
 
 def main():
     print("implement this later")

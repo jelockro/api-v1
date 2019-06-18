@@ -324,3 +324,800 @@ INFO 2019-06-10 14:19:43,147 mongo_router 25300 140048905705216 /mongo/vision/<c
 INFO 2019-06-10 14:19:43,147 mongo_controller 25300 140048905705216 get_vision_client_ids called
 INFO 2019-06-10 14:19:43,149 mongo_connect 25300 140048905705216 Connection!
 INFO 2019-06-10 14:19:43,150 mongo_connect 25300 140048905705216 Connection Works!
+INFO 2019-06-10 14:24:37,456 app 25490 140368449357568 Started
+INFO 2019-06-10 14:36:14,708 mongo_controller 25720 140698201536256 get_vision_client_ids called
+INFO 2019-06-10 14:36:14,712 mongo_connect 25720 140698201536256 Connection!
+INFO 2019-06-10 14:36:14,712 mongo_connect 25720 140698201536256 Connection Works!
+INFO 2019-06-10 14:41:49,455 mongo_controller 25879 140353708807936 get_vision_client_ids called
+INFO 2019-06-10 14:41:49,472 mongo_connect 25879 140353708807936 Connection!
+INFO 2019-06-10 14:41:49,472 mongo_connect 25879 140353708807936 Connection Works!
+INFO 2019-06-10 14:41:49,495 mongo_controller 25879 140353708807936 get_vision_client_ids called
+INFO 2019-06-10 14:41:49,497 mongo_connect 25879 140353708807936 Connection!
+INFO 2019-06-10 14:41:49,497 mongo_connect 25879 140353708807936 Connection Works!
+INFO 2019-06-10 14:41:49,536 mongo_controller 25879 140353708807936 get_vision_client_ids called
+INFO 2019-06-10 14:41:49,548 mongo_connect 25879 140353708807936 Connection!
+INFO 2019-06-10 14:41:49,549 mongo_connect 25879 140353708807936 Connection Works!
+INFO 2019-06-10 14:42:05,727 mongo_controller 25879 140353708807936 get_vision_client_ids called
+INFO 2019-06-10 14:42:05,732 mongo_connect 25879 140353708807936 Connection!
+INFO 2019-06-10 14:42:05,732 mongo_connect 25879 140353708807936 Connection Works!
+INFO 2019-06-10 14:42:05,762 mongo_controller 25879 140353708807936 get_vision_client_ids called
+INFO 2019-06-10 14:42:05,776 mongo_connect 25879 140353708807936 Connection!
+INFO 2019-06-10 14:42:05,776 mongo_connect 25879 140353708807936 Connection Works!
+INFO 2019-06-10 14:42:05,828 mongo_controller 25879 140353708807936 get_vision_client_ids called
+INFO 2019-06-10 14:42:05,840 mongo_connect 25879 140353708807936 Connection!
+INFO 2019-06-10 14:42:05,840 mongo_connect 25879 140353708807936 Connection Works!
+INFO 2019-06-10 14:42:29,677 mongo_controller 25955 140124818380544 get_vision_client_ids called
+INFO 2019-06-10 14:42:29,682 mongo_connect 25955 140124818380544 Connection!
+INFO 2019-06-10 14:42:29,682 mongo_connect 25955 140124818380544 Connection Works!
+INFO 2019-06-10 14:42:29,710 mongo_controller 25955 140124818380544 get_vision_client_ids called
+INFO 2019-06-10 14:42:29,719 mongo_connect 25955 140124818380544 Connection!
+INFO 2019-06-10 14:42:29,720 mongo_connect 25955 140124818380544 Connection Works!
+INFO 2019-06-10 14:42:29,743 mongo_controller 25955 140124818380544 get_vision_client_ids called
+INFO 2019-06-10 14:42:29,745 mongo_connect 25955 140124818380544 Connection!
+INFO 2019-06-10 14:42:29,745 mongo_connect 25955 140124818380544 Connection Works!
+INFO 2019-06-10 14:45:29,590 mongo_controller 26068 140006277326592 get_vision_client_ids called
+INFO 2019-06-10 14:45:29,598 mongo_connect 26068 140006277326592 Connection!
+INFO 2019-06-10 14:45:29,598 mongo_connect 26068 140006277326592 Connection Works!
+INFO 2019-06-10 14:45:29,617 mongo_controller 26068 140006277326592 get_vision_client_ids called
+INFO 2019-06-10 14:45:29,619 mongo_connect 26068 140006277326592 Connection!
+INFO 2019-06-10 14:45:29,619 mongo_connect 26068 140006277326592 Connection Works!
+INFO 2019-06-10 14:45:29,641 mongo_controller 26068 140006277326592 get_vision_client_ids called
+INFO 2019-06-10 14:45:29,662 mongo_connect 26068 140006277326592 Connection!
+INFO 2019-06-10 14:45:29,662 mongo_connect 26068 140006277326592 Connection Works!
+INFO 2019-06-10 14:46:17,193 mongo_controller 26120 139897963181824 get_vision_client_ids called
+INFO 2019-06-10 14:46:17,196 mongo_connect 26120 139897963181824 Connection!
+INFO 2019-06-10 14:46:17,196 mongo_connect 26120 139897963181824 Connection Works!
+INFO 2019-06-10 14:46:17,212 mongo_controller 26120 139897963181824 get_vision_client_ids called
+INFO 2019-06-10 14:46:17,233 mongo_connect 26120 139897963181824 Connection!
+INFO 2019-06-10 14:46:17,233 mongo_connect 26120 139897963181824 Connection Works!
+INFO 2019-06-10 14:46:17,256 mongo_controller 26120 139897963181824 get_vision_client_ids called
+INFO 2019-06-10 14:46:17,258 mongo_connect 26120 139897963181824 Connection!
+INFO 2019-06-10 14:46:17,258 mongo_connect 26120 139897963181824 Connection Works!
+INFO 2019-06-10 14:47:51,394 mongo_controller 26195 140291184199424 get_vision_client_ids called
+INFO 2019-06-10 14:47:51,397 mongo_connect 26195 140291184199424 Connection!
+INFO 2019-06-10 14:47:51,397 mongo_connect 26195 140291184199424 Connection Works!
+INFO 2019-06-10 14:47:51,418 mongo_controller 26195 140291184199424 get_vision_client_ids called
+INFO 2019-06-10 14:47:51,421 mongo_connect 26195 140291184199424 Connection!
+INFO 2019-06-10 14:47:51,421 mongo_connect 26195 140291184199424 Connection Works!
+INFO 2019-06-10 14:47:51,440 mongo_controller 26195 140291184199424 get_vision_client_ids called
+INFO 2019-06-10 14:47:51,441 mongo_connect 26195 140291184199424 Connection!
+INFO 2019-06-10 14:47:51,441 mongo_connect 26195 140291184199424 Connection Works!
+INFO 2019-06-10 14:52:15,600 mongo_controller 26332 139742786754304 get_vision_client_ids called
+INFO 2019-06-10 14:52:15,602 mongo_connect 26332 139742786754304 Connection!
+INFO 2019-06-10 14:52:15,603 mongo_connect 26332 139742786754304 Connection Works!
+INFO 2019-06-10 14:52:15,620 mongo_controller 26332 139742786754304 get_vision_client_ids called
+INFO 2019-06-10 14:52:15,627 mongo_connect 26332 139742786754304 Connection!
+INFO 2019-06-10 14:52:15,628 mongo_connect 26332 139742786754304 Connection Works!
+INFO 2019-06-10 14:52:15,655 mongo_controller 26332 139742786754304 get_vision_client_ids called
+INFO 2019-06-10 14:52:15,667 mongo_connect 26332 139742786754304 Connection!
+INFO 2019-06-10 14:52:15,667 mongo_connect 26332 139742786754304 Connection Works!
+INFO 2019-06-10 14:53:20,442 mongo_controller 26390 139717539723008 get_vision_client_ids called
+INFO 2019-06-10 14:53:20,449 mongo_connect 26390 139717539723008 Connection!
+INFO 2019-06-10 14:53:20,449 mongo_connect 26390 139717539723008 Connection Works!
+INFO 2019-06-10 14:53:20,469 mongo_controller 26390 139717539723008 get_vision_client_ids called
+INFO 2019-06-10 14:53:20,471 mongo_connect 26390 139717539723008 Connection!
+INFO 2019-06-10 14:53:20,471 mongo_connect 26390 139717539723008 Connection Works!
+INFO 2019-06-10 14:53:20,485 mongo_controller 26390 139717539723008 get_vision_client_ids called
+INFO 2019-06-10 14:53:20,487 mongo_connect 26390 139717539723008 Connection!
+INFO 2019-06-10 14:53:20,487 mongo_connect 26390 139717539723008 Connection Works!
+INFO 2019-06-10 14:54:14,512 mongo_controller 26442 140699123427072 get_vision_client_ids called
+INFO 2019-06-10 14:54:14,516 mongo_connect 26442 140699123427072 Connection!
+INFO 2019-06-10 14:54:14,516 mongo_connect 26442 140699123427072 Connection Works!
+INFO 2019-06-10 14:54:14,556 mongo_controller 26442 140699123427072 get_vision_client_ids called
+INFO 2019-06-10 14:54:14,568 mongo_connect 26442 140699123427072 Connection!
+INFO 2019-06-10 14:54:14,568 mongo_connect 26442 140699123427072 Connection Works!
+INFO 2019-06-10 14:54:14,586 mongo_controller 26442 140699123427072 get_vision_client_ids called
+INFO 2019-06-10 14:54:14,587 mongo_connect 26442 140699123427072 Connection!
+INFO 2019-06-10 14:54:14,588 mongo_connect 26442 140699123427072 Connection Works!
+INFO 2019-06-10 14:54:42,385 mongo_controller 26490 139904572118784 get_vision_client_ids called
+INFO 2019-06-10 14:54:42,390 mongo_connect 26490 139904572118784 Connection!
+INFO 2019-06-10 14:54:42,390 mongo_connect 26490 139904572118784 Connection Works!
+INFO 2019-06-10 14:54:42,425 mongo_controller 26490 139904572118784 get_vision_client_ids called
+INFO 2019-06-10 14:54:42,428 mongo_connect 26490 139904572118784 Connection!
+INFO 2019-06-10 14:54:42,428 mongo_connect 26490 139904572118784 Connection Works!
+INFO 2019-06-10 14:54:42,452 mongo_controller 26490 139904572118784 get_vision_client_ids called
+INFO 2019-06-10 14:54:42,453 mongo_connect 26490 139904572118784 Connection!
+INFO 2019-06-10 14:54:42,454 mongo_connect 26490 139904572118784 Connection Works!
+INFO 2019-06-10 14:55:15,422 mongo_controller 26536 139733818742528 get_vision_client_ids called
+INFO 2019-06-10 14:55:15,425 mongo_connect 26536 139733818742528 Connection!
+INFO 2019-06-10 14:55:15,425 mongo_connect 26536 139733818742528 Connection Works!
+INFO 2019-06-10 14:55:15,453 mongo_controller 26536 139733818742528 get_vision_client_ids called
+INFO 2019-06-10 14:55:15,455 mongo_connect 26536 139733818742528 Connection!
+INFO 2019-06-10 14:55:15,455 mongo_connect 26536 139733818742528 Connection Works!
+INFO 2019-06-10 14:55:15,495 mongo_controller 26536 139733818742528 get_vision_client_ids called
+INFO 2019-06-10 14:55:15,527 mongo_connect 26536 139733818742528 Connection!
+INFO 2019-06-10 14:55:15,528 mongo_connect 26536 139733818742528 Connection Works!
+INFO 2019-06-10 14:57:30,659 mongo_controller 26616 140571355170560 get_vision_client_ids called
+INFO 2019-06-10 14:57:30,662 mongo_connect 26616 140571355170560 Connection!
+INFO 2019-06-10 14:57:30,663 mongo_connect 26616 140571355170560 Connection Works!
+INFO 2019-06-10 14:57:30,689 mongo_controller 26616 140571355170560 get_vision_client_ids called
+INFO 2019-06-10 14:57:30,697 mongo_connect 26616 140571355170560 Connection!
+INFO 2019-06-10 14:57:30,697 mongo_connect 26616 140571355170560 Connection Works!
+INFO 2019-06-10 14:57:30,711 mongo_controller 26616 140571355170560 get_vision_client_ids called
+INFO 2019-06-10 14:57:30,713 mongo_connect 26616 140571355170560 Connection!
+INFO 2019-06-10 14:57:30,713 mongo_connect 26616 140571355170560 Connection Works!
+INFO 2019-06-10 15:01:37,469 mongo_controller 26760 140535596934912 get_vision_client_ids called
+INFO 2019-06-10 15:01:37,495 mongo_connect 26760 140535596934912 Connection!
+INFO 2019-06-10 15:01:37,496 mongo_connect 26760 140535596934912 Connection Works!
+INFO 2019-06-10 15:01:37,510 mongo_controller 26760 140535596934912 get_vision_client_ids called
+INFO 2019-06-10 15:01:37,512 mongo_connect 26760 140535596934912 Connection!
+INFO 2019-06-10 15:01:37,512 mongo_connect 26760 140535596934912 Connection Works!
+INFO 2019-06-10 15:01:37,533 mongo_controller 26760 140535596934912 get_vision_client_ids called
+INFO 2019-06-10 15:01:37,544 mongo_connect 26760 140535596934912 Connection!
+INFO 2019-06-10 15:01:37,544 mongo_connect 26760 140535596934912 Connection Works!
+INFO 2019-06-10 15:02:35,077 mongo_controller 26816 140291495184128 get_vision_client_ids called
+INFO 2019-06-10 15:02:35,083 mongo_connect 26816 140291495184128 Connection!
+INFO 2019-06-10 15:02:35,083 mongo_connect 26816 140291495184128 Connection Works!
+INFO 2019-06-10 15:02:35,113 mongo_controller 26816 140291495184128 get_vision_client_ids called
+INFO 2019-06-10 15:02:35,117 mongo_connect 26816 140291495184128 Connection!
+INFO 2019-06-10 15:02:35,117 mongo_connect 26816 140291495184128 Connection Works!
+INFO 2019-06-10 15:02:35,146 mongo_controller 26816 140291495184128 get_vision_client_ids called
+INFO 2019-06-10 15:02:35,148 mongo_connect 26816 140291495184128 Connection!
+INFO 2019-06-10 15:02:35,148 mongo_connect 26816 140291495184128 Connection Works!
+INFO 2019-06-10 15:03:04,044 mongo_controller 26861 139785401427712 get_vision_client_ids called
+INFO 2019-06-10 15:03:04,046 mongo_connect 26861 139785401427712 Connection!
+INFO 2019-06-10 15:03:04,046 mongo_connect 26861 139785401427712 Connection Works!
+INFO 2019-06-10 15:03:04,062 mongo_controller 26861 139785401427712 get_vision_client_ids called
+INFO 2019-06-10 15:03:04,064 mongo_connect 26861 139785401427712 Connection!
+INFO 2019-06-10 15:03:04,064 mongo_connect 26861 139785401427712 Connection Works!
+INFO 2019-06-10 15:03:04,090 mongo_controller 26861 139785401427712 get_vision_client_ids called
+INFO 2019-06-10 15:03:04,112 mongo_connect 26861 139785401427712 Connection!
+INFO 2019-06-10 15:03:04,112 mongo_connect 26861 139785401427712 Connection Works!
+INFO 2019-06-10 15:14:52,500 mongo_controller 27122 139842185942784 get_vision_client_ids called
+INFO 2019-06-10 15:14:52,506 mongo_connect 27122 139842185942784 Connection!
+INFO 2019-06-10 15:14:52,506 mongo_connect 27122 139842185942784 Connection Works!
+INFO 2019-06-10 15:14:52,530 mongo_controller 27122 139842185942784 get_vision_client_ids called
+INFO 2019-06-10 15:14:52,532 mongo_connect 27122 139842185942784 Connection!
+INFO 2019-06-10 15:14:52,532 mongo_connect 27122 139842185942784 Connection Works!
+INFO 2019-06-10 15:14:52,567 mongo_controller 27122 139842185942784 get_vision_client_ids called
+INFO 2019-06-10 15:14:52,575 mongo_connect 27122 139842185942784 Connection!
+INFO 2019-06-10 15:14:52,575 mongo_connect 27122 139842185942784 Connection Works!
+INFO 2019-06-10 15:23:44,394 mongo_controller 27342 140429357340416 get_vision_client_ids called
+INFO 2019-06-10 15:23:44,397 mongo_connect 27342 140429357340416 Connection!
+INFO 2019-06-10 15:23:44,397 mongo_connect 27342 140429357340416 Connection Works!
+INFO 2019-06-10 15:23:44,413 mongo_controller 27342 140429357340416 get_vision_client_ids called
+INFO 2019-06-10 15:23:44,415 mongo_connect 27342 140429357340416 Connection!
+INFO 2019-06-10 15:23:44,415 mongo_connect 27342 140429357340416 Connection Works!
+INFO 2019-06-10 15:23:44,430 mongo_controller 27342 140429357340416 get_vision_client_ids called
+INFO 2019-06-10 15:23:44,432 mongo_connect 27342 140429357340416 Connection!
+INFO 2019-06-10 15:23:44,432 mongo_connect 27342 140429357340416 Connection Works!
+INFO 2019-06-10 15:26:15,550 mongo_controller 27441 140304653412096 get_vision_client_ids called
+INFO 2019-06-10 15:26:15,556 mongo_connect 27441 140304653412096 Connection!
+INFO 2019-06-10 15:26:15,556 mongo_connect 27441 140304653412096 Connection Works!
+INFO 2019-06-10 15:26:15,616 mongo_controller 27441 140304653412096 get_vision_client_ids called
+INFO 2019-06-10 15:26:15,629 mongo_connect 27441 140304653412096 Connection!
+INFO 2019-06-10 15:26:15,629 mongo_connect 27441 140304653412096 Connection Works!
+INFO 2019-06-10 15:26:15,654 mongo_controller 27441 140304653412096 get_vision_client_ids called
+INFO 2019-06-10 15:26:15,661 mongo_connect 27441 140304653412096 Connection!
+INFO 2019-06-10 15:26:15,661 mongo_connect 27441 140304653412096 Connection Works!
+INFO 2019-06-10 15:28:10,151 mongo_controller 27525 140118517733120 get_vision_client_ids called
+INFO 2019-06-10 15:28:10,157 mongo_connect 27525 140118517733120 Connection!
+INFO 2019-06-10 15:28:10,157 mongo_connect 27525 140118517733120 Connection Works!
+INFO 2019-06-10 15:28:10,182 mongo_controller 27525 140118517733120 get_vision_client_ids called
+INFO 2019-06-10 15:28:10,188 mongo_connect 27525 140118517733120 Connection!
+INFO 2019-06-10 15:28:10,188 mongo_connect 27525 140118517733120 Connection Works!
+INFO 2019-06-10 15:28:10,205 mongo_controller 27525 140118517733120 get_vision_client_ids called
+INFO 2019-06-10 15:28:10,207 mongo_connect 27525 140118517733120 Connection!
+INFO 2019-06-10 15:28:10,207 mongo_connect 27525 140118517733120 Connection Works!
+INFO 2019-06-10 15:28:35,159 mongo_controller 27570 140586623895296 get_vision_client_ids called
+INFO 2019-06-10 15:28:35,164 mongo_connect 27570 140586623895296 Connection!
+INFO 2019-06-10 15:28:35,164 mongo_connect 27570 140586623895296 Connection Works!
+INFO 2019-06-10 15:28:35,202 mongo_controller 27570 140586623895296 get_vision_client_ids called
+INFO 2019-06-10 15:28:35,210 mongo_connect 27570 140586623895296 Connection!
+INFO 2019-06-10 15:28:35,211 mongo_connect 27570 140586623895296 Connection Works!
+INFO 2019-06-10 15:28:35,239 mongo_controller 27570 140586623895296 get_vision_client_ids called
+INFO 2019-06-10 15:28:35,241 mongo_connect 27570 140586623895296 Connection!
+INFO 2019-06-10 15:28:35,241 mongo_connect 27570 140586623895296 Connection Works!
+INFO 2019-06-10 15:29:24,197 mongo_controller 27627 140393714562816 get_vision_client_ids called
+INFO 2019-06-10 15:29:24,216 mongo_connect 27627 140393714562816 Connection!
+INFO 2019-06-10 15:29:24,216 mongo_connect 27627 140393714562816 Connection Works!
+INFO 2019-06-10 15:29:24,238 mongo_controller 27627 140393714562816 get_vision_client_ids called
+INFO 2019-06-10 15:29:24,252 mongo_connect 27627 140393714562816 Connection!
+INFO 2019-06-10 15:29:24,252 mongo_connect 27627 140393714562816 Connection Works!
+INFO 2019-06-10 15:29:24,283 mongo_controller 27627 140393714562816 get_vision_client_ids called
+INFO 2019-06-10 15:29:24,296 mongo_connect 27627 140393714562816 Connection!
+INFO 2019-06-10 15:29:24,297 mongo_connect 27627 140393714562816 Connection Works!
+INFO 2019-06-10 15:30:09,733 mongo_controller 27673 139858501969664 get_vision_client_ids called
+INFO 2019-06-10 15:30:09,742 mongo_connect 27673 139858501969664 Connection!
+INFO 2019-06-10 15:30:09,742 mongo_connect 27673 139858501969664 Connection Works!
+INFO 2019-06-10 15:30:09,770 mongo_controller 27673 139858501969664 get_vision_client_ids called
+INFO 2019-06-10 15:30:09,772 mongo_connect 27673 139858501969664 Connection!
+INFO 2019-06-10 15:30:09,772 mongo_connect 27673 139858501969664 Connection Works!
+INFO 2019-06-10 15:30:09,790 mongo_controller 27673 139858501969664 get_vision_client_ids called
+INFO 2019-06-10 15:30:09,792 mongo_connect 27673 139858501969664 Connection!
+INFO 2019-06-10 15:30:09,792 mongo_connect 27673 139858501969664 Connection Works!
+INFO 2019-06-10 15:31:58,563 mongo_controller 27748 139801907296000 get_vision_client_ids called
+INFO 2019-06-10 15:31:58,566 mongo_connect 27748 139801907296000 Connection!
+INFO 2019-06-10 15:31:58,566 mongo_connect 27748 139801907296000 Connection Works!
+INFO 2019-06-10 15:31:58,581 mongo_controller 27748 139801907296000 get_vision_client_ids called
+INFO 2019-06-10 15:31:58,585 mongo_connect 27748 139801907296000 Connection!
+INFO 2019-06-10 15:31:58,585 mongo_connect 27748 139801907296000 Connection Works!
+INFO 2019-06-10 15:31:58,613 mongo_controller 27748 139801907296000 get_vision_client_ids called
+INFO 2019-06-10 15:31:58,617 mongo_connect 27748 139801907296000 Connection!
+INFO 2019-06-10 15:31:58,617 mongo_connect 27748 139801907296000 Connection Works!
+INFO 2019-06-10 15:32:53,283 mongo_controller 27802 140604127889152 get_vision_client_ids called
+INFO 2019-06-10 15:32:53,286 mongo_connect 27802 140604127889152 Connection!
+INFO 2019-06-10 15:32:53,286 mongo_connect 27802 140604127889152 Connection Works!
+INFO 2019-06-10 15:32:53,315 mongo_controller 27802 140604127889152 get_vision_client_ids called
+INFO 2019-06-10 15:32:53,337 mongo_connect 27802 140604127889152 Connection!
+INFO 2019-06-10 15:32:53,338 mongo_connect 27802 140604127889152 Connection Works!
+INFO 2019-06-10 15:32:53,372 mongo_controller 27802 140604127889152 get_vision_client_ids called
+INFO 2019-06-10 15:32:53,375 mongo_connect 27802 140604127889152 Connection!
+INFO 2019-06-10 15:32:53,376 mongo_connect 27802 140604127889152 Connection Works!
+INFO 2019-06-10 15:33:22,423 mongo_controller 27853 139881743206144 get_vision_client_ids called
+INFO 2019-06-10 15:33:22,429 mongo_connect 27853 139881743206144 Connection!
+INFO 2019-06-10 15:33:22,430 mongo_connect 27853 139881743206144 Connection Works!
+INFO 2019-06-10 15:33:22,458 mongo_controller 27853 139881743206144 get_vision_client_ids called
+INFO 2019-06-10 15:33:22,460 mongo_connect 27853 139881743206144 Connection!
+INFO 2019-06-10 15:33:22,460 mongo_connect 27853 139881743206144 Connection Works!
+INFO 2019-06-10 15:33:22,474 mongo_controller 27853 139881743206144 get_vision_client_ids called
+INFO 2019-06-10 15:33:22,476 mongo_connect 27853 139881743206144 Connection!
+INFO 2019-06-10 15:33:22,476 mongo_connect 27853 139881743206144 Connection Works!
+INFO 2019-06-10 15:34:20,279 mongo_controller 27913 140470546282240 get_vision_client_ids called
+INFO 2019-06-10 15:34:20,282 mongo_connect 27913 140470546282240 Connection!
+INFO 2019-06-10 15:34:20,283 mongo_connect 27913 140470546282240 Connection Works!
+INFO 2019-06-10 15:34:20,297 mongo_controller 27913 140470546282240 get_vision_client_ids called
+INFO 2019-06-10 15:34:20,299 mongo_connect 27913 140470546282240 Connection!
+INFO 2019-06-10 15:34:20,299 mongo_connect 27913 140470546282240 Connection Works!
+INFO 2019-06-10 15:34:20,316 mongo_controller 27913 140470546282240 get_vision_client_ids called
+INFO 2019-06-10 15:34:20,318 mongo_connect 27913 140470546282240 Connection!
+INFO 2019-06-10 15:34:20,319 mongo_connect 27913 140470546282240 Connection Works!
+INFO 2019-06-10 15:44:01,604 mongo_controller 28183 140089305896704 get_vision_client_ids called
+INFO 2019-06-10 15:44:01,618 mongo_connect 28183 140089305896704 Connection!
+INFO 2019-06-10 15:44:01,618 mongo_connect 28183 140089305896704 Connection Works!
+INFO 2019-06-10 15:44:56,554 mongo_controller 28229 140639734589184 get_vision_client_ids called
+INFO 2019-06-10 15:44:56,557 mongo_connect 28229 140639734589184 Connection!
+INFO 2019-06-10 15:44:56,557 mongo_connect 28229 140639734589184 Connection Works!
+INFO 2019-06-10 15:48:45,719 mongo_controller 28334 139724649948928 get_vision_client_ids called
+INFO 2019-06-10 15:48:45,725 mongo_connect 28334 139724649948928 Connection!
+INFO 2019-06-10 15:48:45,725 mongo_connect 28334 139724649948928 Connection Works!
+INFO 2019-06-10 15:50:13,192 mongo_controller 28401 140351367436032 get_vision_client_ids called
+INFO 2019-06-10 15:50:13,195 mongo_connect 28401 140351367436032 Connection!
+INFO 2019-06-10 15:50:13,195 mongo_connect 28401 140351367436032 Connection Works!
+INFO 2019-06-10 15:51:17,987 mongo_controller 28452 139690763450112 get_vision_client_ids called
+INFO 2019-06-10 15:51:18,001 mongo_connect 28452 139690763450112 Connection!
+INFO 2019-06-10 15:51:18,002 mongo_connect 28452 139690763450112 Connection Works!
+INFO 2019-06-10 15:52:30,894 mongo_controller 28500 139857870554880 get_vision_client_ids called
+INFO 2019-06-10 15:52:30,897 mongo_connect 28500 139857870554880 Connection!
+INFO 2019-06-10 15:52:30,897 mongo_connect 28500 139857870554880 Connection Works!
+INFO 2019-06-10 16:04:51,719 mongo_controller 28779 140209690220288 get_vision_client_ids called
+INFO 2019-06-10 16:04:51,722 mongo_connect 28779 140209690220288 Connection!
+INFO 2019-06-10 16:04:51,722 mongo_connect 28779 140209690220288 Connection Works!
+INFO 2019-06-10 16:05:24,980 mongo_controller 28779 140209690220288 get_vision_client_ids called
+INFO 2019-06-10 16:05:24,989 mongo_connect 28779 140209690220288 Connection!
+INFO 2019-06-10 16:05:24,990 mongo_connect 28779 140209690220288 Connection Works!
+INFO 2019-06-10 16:05:57,368 mongo_controller 28779 140209690220288 get_vision_client_ids called
+INFO 2019-06-10 16:05:57,395 mongo_connect 28779 140209690220288 Connection!
+INFO 2019-06-10 16:05:57,397 mongo_connect 28779 140209690220288 Connection Works!
+INFO 2019-06-10 16:06:26,457 mongo_controller 28859 140312894220032 get_vision_client_ids called
+INFO 2019-06-10 16:06:26,460 mongo_connect 28859 140312894220032 Connection!
+INFO 2019-06-10 16:06:26,460 mongo_connect 28859 140312894220032 Connection Works!
+INFO 2019-06-10 16:08:06,202 mongo_controller 28859 140312894220032 get_vision_client_ids called
+INFO 2019-06-10 16:08:06,206 mongo_connect 28859 140312894220032 Connection!
+INFO 2019-06-10 16:08:06,206 mongo_connect 28859 140312894220032 Connection Works!
+INFO 2019-06-10 16:08:17,985 mongo_controller 28936 140202458040064 get_vision_client_ids called
+INFO 2019-06-10 16:08:17,987 mongo_connect 28936 140202458040064 Connection!
+INFO 2019-06-10 16:08:17,987 mongo_connect 28936 140202458040064 Connection Works!
+INFO 2019-06-10 16:15:51,899 mongo_controller 29203 140589703034624 get_vision_client_ids called
+INFO 2019-06-10 16:15:51,917 mongo_connect 29203 140589703034624 Connection!
+INFO 2019-06-10 16:15:51,917 mongo_connect 29203 140589703034624 Connection Works!
+INFO 2019-06-10 16:17:17,678 mongo_controller 29253 140001588156160 get_vision_client_ids called
+INFO 2019-06-10 16:17:17,685 mongo_connect 29253 140001588156160 Connection!
+INFO 2019-06-10 16:17:17,685 mongo_connect 29253 140001588156160 Connection Works!
+INFO 2019-06-10 16:18:04,532 mongo_controller 29305 140472348821248 get_vision_client_ids called
+INFO 2019-06-10 16:18:04,535 mongo_connect 29305 140472348821248 Connection!
+INFO 2019-06-10 16:18:04,535 mongo_connect 29305 140472348821248 Connection Works!
+INFO 2019-06-10 16:23:59,243 mongo_controller 29452 139892868400896 get_vision_client_ids called
+INFO 2019-06-10 16:23:59,246 mongo_connect 29452 139892868400896 Connection!
+INFO 2019-06-10 16:23:59,246 mongo_connect 29452 139892868400896 Connection Works!
+INFO 2019-06-10 16:24:44,791 mongo_controller 29499 139943629661952 get_vision_client_ids called
+INFO 2019-06-10 16:24:44,794 mongo_connect 29499 139943629661952 Connection!
+INFO 2019-06-10 16:24:44,794 mongo_connect 29499 139943629661952 Connection Works!
+INFO 2019-06-10 16:25:23,219 mongo_controller 29537 139965676467968 get_vision_client_ids called
+INFO 2019-06-10 16:25:23,224 mongo_connect 29537 139965676467968 Connection!
+INFO 2019-06-10 16:25:23,224 mongo_connect 29537 139965676467968 Connection Works!
+INFO 2019-06-10 16:25:46,011 mongo_controller 29537 139965676467968 get_vision_client_ids called
+INFO 2019-06-10 16:25:46,015 mongo_connect 29537 139965676467968 Connection!
+INFO 2019-06-10 16:25:46,015 mongo_connect 29537 139965676467968 Connection Works!
+INFO 2019-06-10 16:36:28,774 mongo_controller 29855 140545190434560 get_vision_client_ids called
+INFO 2019-06-10 16:36:28,779 mongo_connect 29855 140545190434560 Connection!
+INFO 2019-06-10 16:36:28,784 mongo_connect 29855 140545190434560 Connection Works!
+INFO 2019-06-10 16:37:44,436 mongo_controller 29915 139708426602240 get_vision_client_ids called
+INFO 2019-06-10 16:37:44,440 mongo_connect 29915 139708426602240 Connection!
+INFO 2019-06-10 16:37:44,440 mongo_connect 29915 139708426602240 Connection Works!
+INFO 2019-06-10 16:38:42,388 mongo_controller 29955 140079011292928 get_vision_client_ids called
+INFO 2019-06-10 16:38:42,393 mongo_connect 29955 140079011292928 Connection!
+INFO 2019-06-10 16:38:42,393 mongo_connect 29955 140079011292928 Connection Works!
+INFO 2019-06-11 08:51:06,722 app 376 140116716119808 Started
+INFO 2019-06-11 08:51:07,600 app 381 140432572462848 Started
+INFO 2019-06-11 08:51:24,564 mongo_router 381 140432409286400 /mongo/vision/<client_id> route called
+INFO 2019-06-11 08:51:24,565 mongo_controller 381 140432409286400 get_vision_client_ids called
+INFO 2019-06-11 08:51:24,568 mongo_connect 381 140432409286400 Connection!
+INFO 2019-06-11 08:51:24,568 mongo_connect 381 140432409286400 Connection Works!
+INFO 2019-06-11 08:54:36,182 app 540 140047068165888 Started
+INFO 2019-06-11 08:54:37,130 app 546 140225082119936 Started
+INFO 2019-06-11 08:54:40,021 test_routes 546 140224987735808 get_vision_client_web_version called
+INFO 2019-06-11 08:54:40,029 mongo_connect 546 140224987735808 Connection!
+INFO 2019-06-11 08:54:40,031 mongo_connect 546 140224987735808 Connection Works!
+INFO 2019-06-11 08:56:43,308 app 636 140283034355456 Started
+INFO 2019-06-11 08:56:43,881 app 640 139833585227520 Started
+INFO 2019-06-11 08:56:45,880 test_routes 640 139833490843392 get_vision_client_web_version called
+INFO 2019-06-11 08:56:45,883 mongo_connect 640 139833490843392 Connection!
+INFO 2019-06-11 08:56:45,883 mongo_connect 640 139833490843392 Connection Works!
+INFO 2019-06-11 10:02:50,367 app 2106 140512696579840 Started
+INFO 2019-06-11 10:02:51,317 app 2112 140214100805376 Started
+INFO 2019-06-11 10:03:18,292 test_routes 2112 140214006421248 get_vision_client_web_version called
+INFO 2019-06-11 10:03:18,295 mongo_connect 2112 140214006421248 Connection!
+INFO 2019-06-11 10:03:18,296 mongo_connect 2112 140214006421248 Connection Works!
+INFO 2019-06-11 13:55:58,094 app 6917 140514455959296 Started
+INFO 2019-06-11 13:55:59,227 app 6922 139797671712512 Started
+INFO 2019-06-11 13:56:02,380 test_routes 6922 139797577328384 get_vision_client_web_version called
+INFO 2019-06-11 13:56:02,383 mongo_connect 6922 139797577328384 Connection!
+INFO 2019-06-11 13:56:02,385 mongo_connect 6922 139797577328384 Connection Works!
+INFO 2019-06-11 13:56:19,806 test_routes 6922 139797577328384 get_vision_client_web_version called
+INFO 2019-06-11 13:56:19,809 mongo_connect 6922 139797577328384 Connection!
+INFO 2019-06-11 13:56:19,809 mongo_connect 6922 139797577328384 Connection Works!
+INFO 2019-06-11 13:57:23,296 app 6995 140445265352448 Started
+INFO 2019-06-11 13:57:24,189 app 7000 140037936805632 Started
+INFO 2019-06-11 13:57:25,924 test_routes 7000 140037842421504 get_vision_client_web_version called
+INFO 2019-06-11 13:57:25,927 mongo_connect 7000 140037842421504 Connection!
+INFO 2019-06-11 13:57:25,927 mongo_connect 7000 140037842421504 Connection Works!
+INFO 2019-06-11 13:57:34,660 test_routes 7000 140037610010368 get_vision_client_web_version called
+INFO 2019-06-11 13:57:34,663 mongo_connect 7000 140037610010368 Connection!
+INFO 2019-06-11 13:57:34,663 mongo_connect 7000 140037610010368 Connection Works!
+INFO 2019-06-11 13:57:41,390 test_routes 7000 140037834028800 get_vision_client_web_version called
+INFO 2019-06-11 13:57:41,405 mongo_connect 7000 140037834028800 Connection!
+INFO 2019-06-11 13:57:41,406 mongo_connect 7000 140037834028800 Connection Works!
+INFO 2019-06-11 13:58:28,242 test_routes 7000 140037825636096 get_vision_client_web_version called
+INFO 2019-06-11 13:58:28,246 mongo_connect 7000 140037825636096 Connection!
+INFO 2019-06-11 13:58:28,247 mongo_connect 7000 140037825636096 Connection Works!
+INFO 2019-06-11 14:19:43,306 app 7819 140550480283392 Started
+INFO 2019-06-11 14:19:43,929 app 7823 140244831573760 Started
+INFO 2019-06-11 14:19:46,406 test_routes 7823 140244737189632 get_vision_client_web_version called
+INFO 2019-06-11 14:19:46,409 mongo_connect 7823 140244737189632 Connection!
+INFO 2019-06-11 14:19:46,409 mongo_connect 7823 140244737189632 Connection Works!
+INFO 2019-06-11 14:20:09,923 test_routes 7823 140244737189632 get_vision_client_web_version called
+INFO 2019-06-11 14:20:09,924 mongo_connect 7823 140244737189632 Connection!
+INFO 2019-06-11 14:20:09,924 mongo_connect 7823 140244737189632 Connection Works!
+INFO 2019-06-11 14:20:15,420 test_routes 7823 140244720404224 get_vision_client_web_version called
+INFO 2019-06-11 14:20:15,424 mongo_connect 7823 140244720404224 Connection!
+INFO 2019-06-11 14:20:15,424 mongo_connect 7823 140244720404224 Connection Works!
+INFO 2019-06-11 14:20:21,871 test_routes 7823 140244737189632 get_vision_client_web_version called
+INFO 2019-06-11 14:20:21,873 mongo_connect 7823 140244737189632 Connection!
+INFO 2019-06-11 14:20:21,873 mongo_connect 7823 140244737189632 Connection Works!
+INFO 2019-06-11 14:20:26,067 test_routes 7823 140244720404224 get_vision_client_web_version called
+INFO 2019-06-11 14:20:26,075 mongo_connect 7823 140244720404224 Connection!
+INFO 2019-06-11 14:20:26,079 mongo_connect 7823 140244720404224 Connection Works!
+INFO 2019-06-11 14:20:45,969 test_routes 7823 140244720404224 get_vision_client_web_version called
+INFO 2019-06-11 14:20:45,971 mongo_connect 7823 140244720404224 Connection!
+INFO 2019-06-11 14:20:45,971 mongo_connect 7823 140244720404224 Connection Works!
+INFO 2019-06-11 14:20:59,403 test_routes 7823 140244737189632 get_vision_client_web_version called
+INFO 2019-06-11 14:20:59,411 mongo_connect 7823 140244737189632 Connection!
+INFO 2019-06-11 14:20:59,412 mongo_connect 7823 140244737189632 Connection Works!
+INFO 2019-06-11 14:21:03,251 test_routes 7823 140244720404224 get_vision_client_web_version called
+INFO 2019-06-11 14:21:03,253 mongo_connect 7823 140244720404224 Connection!
+INFO 2019-06-11 14:21:03,254 mongo_connect 7823 140244720404224 Connection Works!
+INFO 2019-06-11 14:21:22,512 test_routes 7823 140244737189632 get_vision_client_web_version called
+INFO 2019-06-11 14:21:22,514 mongo_connect 7823 140244737189632 Connection!
+INFO 2019-06-11 14:21:22,515 mongo_connect 7823 140244737189632 Connection Works!
+INFO 2019-06-11 14:21:28,587 test_routes 7823 140244506638080 get_vision_client_web_version called
+INFO 2019-06-11 14:21:28,589 mongo_connect 7823 140244506638080 Connection!
+INFO 2019-06-11 14:21:28,590 mongo_connect 7823 140244506638080 Connection Works!
+INFO 2019-06-11 14:21:32,679 test_routes 7823 140244737189632 get_vision_client_web_version called
+INFO 2019-06-11 14:21:32,680 mongo_connect 7823 140244737189632 Connection!
+INFO 2019-06-11 14:21:32,680 mongo_connect 7823 140244737189632 Connection Works!
+INFO 2019-06-11 14:21:40,084 test_routes 7823 140244737189632 get_vision_client_web_version called
+INFO 2019-06-11 14:21:40,085 mongo_connect 7823 140244737189632 Connection!
+INFO 2019-06-11 14:21:40,086 mongo_connect 7823 140244737189632 Connection Works!
+INFO 2019-06-11 14:22:12,636 test_routes 7823 140244506638080 get_vision_client_web_version called
+INFO 2019-06-11 14:22:12,638 mongo_connect 7823 140244506638080 Connection!
+INFO 2019-06-11 14:22:12,639 mongo_connect 7823 140244506638080 Connection Works!
+INFO 2019-06-11 14:25:26,746 test_routes 7823 140244506638080 get_vision_client_web_version called
+INFO 2019-06-11 14:25:26,748 mongo_connect 7823 140244506638080 Connection!
+INFO 2019-06-11 14:25:26,748 mongo_connect 7823 140244506638080 Connection Works!
+INFO 2019-06-11 14:37:46,800 app 8339 140016723142400 Started
+INFO 2019-06-11 14:41:51,955 app 8509 140626409244416 Started
+INFO 2019-06-11 14:41:52,602 app 8513 139960094496512 Started
+INFO 2019-06-11 14:42:10,914 test_routes_evolv 8513 139959999588096 get_vision_client_web_version called
+INFO 2019-06-11 14:42:10,931 mongo_connect 8513 139959999588096 Connection!
+INFO 2019-06-11 14:42:10,931 mongo_connect 8513 139959999588096 Connection Works!
+INFO 2019-06-11 14:42:19,123 test_routes_evolv 8513 139959991195392 get_vision_client_web_version called
+INFO 2019-06-11 14:42:19,126 mongo_connect 8513 139959991195392 Connection!
+INFO 2019-06-11 14:42:19,126 mongo_connect 8513 139959991195392 Connection Works!
+INFO 2019-06-11 14:43:34,089 app 8600 140332395677440 Started
+INFO 2019-06-11 14:44:05,216 app 8641 140605875390208 Started
+INFO 2019-06-11 14:44:16,919 app 8654 140257985799936 Started
+INFO 2019-06-11 14:44:17,545 app 8658 140371442067200 Started
+INFO 2019-06-11 14:45:03,456 test_routes_evolv 8658 140371275282176 get_vision_client_web_version called
+INFO 2019-06-11 14:45:03,458 mongo_connect 8658 140371275282176 Connection!
+INFO 2019-06-11 14:45:03,459 mongo_connect 8658 140371275282176 Connection Works!
+INFO 2019-06-11 14:45:09,604 test_routes_evolv 8658 140371250104064 get_vision_client_web_version called
+INFO 2019-06-11 14:45:09,605 mongo_connect 8658 140371250104064 Connection!
+INFO 2019-06-11 14:45:09,605 mongo_connect 8658 140371250104064 Connection Works!
+INFO 2019-06-11 14:46:18,233 test_routes_evolv 8658 140371275282176 get_vision_client_web_version called
+INFO 2019-06-11 14:46:18,234 mongo_connect 8658 140371275282176 Connection!
+INFO 2019-06-11 14:46:18,235 mongo_connect 8658 140371275282176 Connection Works!
+INFO 2019-06-11 14:46:33,847 test_routes_evolv 8658 140371275282176 get_vision_client_web_version called
+INFO 2019-06-11 14:46:33,848 mongo_connect 8658 140371275282176 Connection!
+INFO 2019-06-11 14:46:33,849 mongo_connect 8658 140371275282176 Connection Works!
+INFO 2019-06-11 14:46:45,657 test_routes_evolv 8658 140371275282176 get_vision_client_web_version called
+INFO 2019-06-11 14:46:45,679 mongo_connect 8658 140371275282176 Connection!
+INFO 2019-06-11 14:46:45,679 mongo_connect 8658 140371275282176 Connection Works!
+INFO 2019-06-11 14:47:37,671 test_routes_evolv 8658 140371275282176 get_vision_client_web_version called
+INFO 2019-06-11 14:47:37,673 mongo_connect 8658 140371275282176 Connection!
+INFO 2019-06-11 14:47:37,673 mongo_connect 8658 140371275282176 Connection Works!
+INFO 2019-06-11 14:49:34,635 test_routes_evolv 8658 140371275282176 get_vision_client_web_version called
+INFO 2019-06-11 14:49:34,638 mongo_connect 8658 140371275282176 Connection!
+INFO 2019-06-11 14:49:34,639 mongo_connect 8658 140371275282176 Connection Works!
+INFO 2019-06-11 14:49:44,264 test_routes_evolv 8658 140371250104064 get_vision_client_web_version called
+INFO 2019-06-11 14:49:44,266 mongo_connect 8658 140371250104064 Connection!
+INFO 2019-06-11 14:49:44,267 mongo_connect 8658 140371250104064 Connection Works!
+INFO 2019-06-11 14:50:11,962 test_routes 8658 140371250104064 get_vision_client_web_version called
+INFO 2019-06-11 14:50:11,964 mongo_connect 8658 140371250104064 Connection!
+INFO 2019-06-11 14:50:11,965 mongo_connect 8658 140371250104064 Connection Works!
+INFO 2019-06-11 14:50:46,229 test_routes 8658 140371250104064 get_vision_client_web_version called
+INFO 2019-06-11 14:50:46,231 mongo_connect 8658 140371250104064 Connection!
+INFO 2019-06-11 14:50:46,232 mongo_connect 8658 140371250104064 Connection Works!
+INFO 2019-06-11 14:51:05,889 test_routes 8658 140371250104064 get_vision_client_web_version called
+INFO 2019-06-11 14:51:05,891 mongo_connect 8658 140371250104064 Connection!
+INFO 2019-06-11 14:51:05,891 mongo_connect 8658 140371250104064 Connection Works!
+INFO 2019-06-11 14:51:06,921 test_routes 8658 140371233318656 get_vision_client_web_version called
+INFO 2019-06-11 14:51:06,944 mongo_connect 8658 140371233318656 Connection!
+INFO 2019-06-11 14:51:06,944 mongo_connect 8658 140371233318656 Connection Works!
+INFO 2019-06-11 14:51:55,598 test_routes 8658 140371241711360 get_vision_client_web_version called
+INFO 2019-06-11 14:51:55,601 mongo_connect 8658 140371241711360 Connection!
+INFO 2019-06-11 14:51:55,602 mongo_connect 8658 140371241711360 Connection Works!
+INFO 2019-06-11 14:52:01,350 test_routes 8658 140371275282176 get_vision_client_web_version called
+INFO 2019-06-11 14:52:01,353 mongo_connect 8658 140371275282176 Connection!
+INFO 2019-06-11 14:52:01,353 mongo_connect 8658 140371275282176 Connection Works!
+INFO 2019-06-11 15:01:03,444 app 9107 139830364075776 Started
+INFO 2019-06-11 15:03:17,071 app 9208 140506673432320 Started
+INFO 2019-06-11 15:03:25,516 hiera_evolv_routes 9208 140506578261760 get_vision_client_web_version called
+INFO 2019-06-11 15:03:25,518 mongo_connect 9208 140506578261760 Connection!
+INFO 2019-06-11 15:03:25,518 mongo_connect 9208 140506578261760 Connection Works!
+INFO 2019-06-11 15:15:30,997 app 9591 139632245446400 Started
+INFO 2019-06-11 15:15:56,901 app 9641 140088229062400 Started
+INFO 2019-06-11 15:16:25,741 hiera_evolv_routes 9641 140088133891840 get_hiera_evolv_client_collection_version called
+INFO 2019-06-11 15:16:25,744 mongo_connect 9641 140088133891840 Connection!
+INFO 2019-06-11 15:16:25,745 mongo_connect 9641 140088133891840 Connection Works!
+INFO 2019-06-11 15:17:14,160 app 9712 140621374498560 Started
+INFO 2019-06-11 15:17:20,211 hiera_vision_routes 9712 140621279852288 get_hiera_vision_client_collection_version called
+INFO 2019-06-11 15:17:20,212 mongo_connect 9712 140621279852288 Connection!
+INFO 2019-06-11 15:17:20,213 mongo_connect 9712 140621279852288 Connection Works!
+INFO 2019-06-11 15:25:02,278 app 10062 139691834562304 Started
+INFO 2019-06-11 15:25:02,780 app 10066 140495686784768 Started
+INFO 2019-06-11 15:25:05,475 hiera_vision_routes 10066 140495592662784 get_hiera_vision_client_collection_version called
+INFO 2019-06-11 15:25:05,478 mongo_connect 10066 140495592662784 Connection!
+INFO 2019-06-11 15:25:05,478 mongo_connect 10066 140495592662784 Connection Works!
+INFO 2019-06-11 15:25:44,777 app 10106 140406076548864 Started
+INFO 2019-06-11 15:25:45,325 app 10110 139753930344192 Started
+INFO 2019-06-11 15:26:07,125 app 10135 139805742249728 Started
+INFO 2019-06-11 15:26:38,966 app 10165 140707556431616 Started
+INFO 2019-06-11 15:26:39,771 app 10169 139670369732352 Started
+INFO 2019-06-11 15:26:41,275 hiera_vision_routes 10169 139670275086080 get_hiera_vision_client_collection_version called
+INFO 2019-06-11 15:26:41,279 mongo_connect 10169 139670275086080 Connection!
+INFO 2019-06-11 15:26:41,279 mongo_connect 10169 139670275086080 Connection Works!
+INFO 2019-06-11 15:26:45,649 hiera_evolv_routes 10169 139670266693376 get_hiera_evolv_client_collection_version called
+INFO 2019-06-11 15:26:45,684 mongo_connect 10169 139670266693376 Connection!
+INFO 2019-06-11 15:26:45,685 mongo_connect 10169 139670266693376 Connection Works!
+INFO 2019-06-11 15:32:20,148 hiera_evolv_routes 10169 139670054762240 get_hiera_evolv_client_collection_version called
+INFO 2019-06-11 15:32:20,151 mongo_connect 10169 139670054762240 Connection!
+INFO 2019-06-11 15:32:20,151 mongo_connect 10169 139670054762240 Connection Works!
+INFO 2019-06-11 15:32:27,646 app 10309 140123322341120 Started
+INFO 2019-06-11 15:32:28,212 app 10313 139635837912832 Started
+INFO 2019-06-11 15:33:06,738 app 10366 140050582517504 Started
+INFO 2019-06-11 15:33:07,437 app 10370 139714767668992 Started
+INFO 2019-06-11 15:33:09,853 hiera_vision_routes 10370 139714673022720 get_hiera_vision_client_collection_version called
+INFO 2019-06-11 15:33:09,855 mongo_connect 10370 139714673022720 Connection!
+INFO 2019-06-11 15:33:09,855 mongo_connect 10370 139714673022720 Connection Works!
+INFO 2019-06-11 15:33:14,944 hiera_evolv_routes 10370 139714656237312 get_hiera_evolv_client_collection_version called
+INFO 2019-06-11 15:33:14,947 mongo_connect 10370 139714656237312 Connection!
+INFO 2019-06-11 15:33:14,947 mongo_connect 10370 139714656237312 Connection Works!
+INFO 2019-06-11 17:17:17,666 app 12087 140456969451264 Started
+INFO 2019-06-11 17:20:06,774 hiera_evolv_routes 12087 140456874280704 get_hiera_evolv_client_collection_version called
+INFO 2019-06-11 17:20:06,776 mongo_connect 12087 140456874280704 Connection!
+INFO 2019-06-11 17:20:06,776 mongo_connect 12087 140456874280704 Connection Works!
+INFO 2019-06-11 17:20:12,398 app 12198 139814908036864 Started
+INFO 2019-06-11 17:20:12,949 app 12202 139710849443584 Started
+INFO 2019-06-11 17:21:16,459 app 12243 139742537017088 Started
+INFO 2019-06-11 17:21:17,034 app 12247 140171243738880 Started
+INFO 2019-06-11 17:21:19,616 hiera_vision_routes 12247 140171149616896 get_hiera_vision_client_collection_version called
+INFO 2019-06-11 17:21:19,618 mongo_connect 12247 140171149616896 Connection!
+INFO 2019-06-11 17:21:19,619 mongo_connect 12247 140171149616896 Connection Works!
+INFO 2019-06-11 17:21:30,625 hiera_vision_routes 12247 140171141224192 get_hiera_vision_client_collection_version called
+INFO 2019-06-11 17:21:30,628 mongo_connect 12247 140171141224192 Connection!
+INFO 2019-06-11 17:21:30,628 mongo_connect 12247 140171141224192 Connection Works!
+INFO 2019-06-11 17:21:46,788 hiera_vision_routes 12247 140171132831488 get_hiera_vision_client_collection_version called
+INFO 2019-06-11 17:21:46,790 mongo_connect 12247 140171132831488 Connection!
+INFO 2019-06-11 17:21:46,790 mongo_connect 12247 140171132831488 Connection Works!
+INFO 2019-06-11 17:22:03,611 hiera_vision_routes 12247 140171149616896 get_hiera_vision_client_collection_version called
+INFO 2019-06-11 17:22:03,613 mongo_connect 12247 140171149616896 Connection!
+INFO 2019-06-11 17:22:03,614 mongo_connect 12247 140171149616896 Connection Works!
+INFO 2019-06-11 17:22:23,585 hiera_vision_routes 12247 140171141224192 get_hiera_vision_client_collection_version called
+INFO 2019-06-11 17:22:23,586 mongo_connect 12247 140171141224192 Connection!
+INFO 2019-06-11 17:22:23,587 mongo_connect 12247 140171141224192 Connection Works!
+INFO 2019-06-11 17:22:30,154 hiera_vision_routes 12247 140171149616896 get_hiera_vision_client_collection_version called
+INFO 2019-06-11 17:22:30,157 mongo_connect 12247 140171149616896 Connection!
+INFO 2019-06-11 17:22:30,157 mongo_connect 12247 140171149616896 Connection Works!
+INFO 2019-06-11 17:22:37,177 hiera_vision_routes 12247 140171141224192 get_hiera_vision_client_collection_version called
+INFO 2019-06-11 17:22:37,179 mongo_connect 12247 140171141224192 Connection!
+INFO 2019-06-11 17:22:37,180 mongo_connect 12247 140171141224192 Connection Works!
+INFO 2019-06-11 17:22:44,419 hiera_vision_routes 12247 140171149616896 get_hiera_vision_client_collection_version called
+INFO 2019-06-11 17:22:44,420 mongo_connect 12247 140171149616896 Connection!
+INFO 2019-06-11 17:22:44,421 mongo_connect 12247 140171149616896 Connection Works!
+INFO 2019-06-11 17:23:20,377 app 12354 140348317497088 Started
+INFO 2019-06-11 17:23:21,025 app 12358 140541799978752 Started
+INFO 2019-06-11 17:23:32,532 hiera_evolv_routes 12358 140541705332480 get_hiera_evolv_client_collection_version called
+INFO 2019-06-11 17:23:32,571 mongo_connect 12358 140541705332480 Connection!
+INFO 2019-06-11 17:23:32,573 mongo_connect 12358 140541705332480 Connection Works!
+INFO 2019-06-11 17:24:11,436 hiera_evolv_routes 12358 140541686359808 get_hiera_evolv_client_collection_version called
+INFO 2019-06-11 17:24:11,438 mongo_connect 12358 140541686359808 Connection!
+INFO 2019-06-11 17:24:11,439 mongo_connect 12358 140541686359808 Connection Works!
+INFO 2019-06-11 17:24:16,704 hiera_evolv_routes 12358 140541705332480 get_hiera_evolv_client_collection_version called
+INFO 2019-06-11 17:24:16,706 mongo_connect 12358 140541705332480 Connection!
+INFO 2019-06-11 17:24:16,707 mongo_connect 12358 140541705332480 Connection Works!
+INFO 2019-06-11 17:24:24,054 hiera_evolv_routes 12358 140541694752512 get_hiera_evolv_client_collection_version called
+INFO 2019-06-11 17:24:24,056 mongo_connect 12358 140541694752512 Connection!
+INFO 2019-06-11 17:24:24,056 mongo_connect 12358 140541694752512 Connection Works!
+INFO 2019-06-11 17:24:30,623 hiera_evolv_routes 12358 140541686359808 get_hiera_evolv_client_collection_version called
+INFO 2019-06-11 17:24:30,625 mongo_connect 12358 140541686359808 Connection!
+INFO 2019-06-11 17:24:30,625 mongo_connect 12358 140541686359808 Connection Works!
+INFO 2019-06-11 17:24:42,562 hiera_evolv_routes 12358 140541705332480 get_hiera_evolv_client_collection_version called
+INFO 2019-06-11 17:24:42,563 mongo_connect 12358 140541705332480 Connection!
+INFO 2019-06-11 17:24:42,564 mongo_connect 12358 140541705332480 Connection Works!
+INFO 2019-06-11 17:25:05,856 hiera_evolv_routes 12358 140541694752512 get_hiera_evolv_client_collection_version called
+INFO 2019-06-11 17:25:05,866 mongo_connect 12358 140541694752512 Connection!
+INFO 2019-06-11 17:25:05,866 mongo_connect 12358 140541694752512 Connection Works!
+INFO 2019-06-11 17:25:10,031 hiera_evolv_routes 12358 140541705332480 get_hiera_evolv_client_collection_version called
+INFO 2019-06-11 17:25:10,033 mongo_connect 12358 140541705332480 Connection!
+INFO 2019-06-11 17:25:10,033 mongo_connect 12358 140541705332480 Connection Works!
+INFO 2019-06-11 17:25:18,205 hiera_evolv_routes 12358 140541686359808 get_hiera_evolv_client_collection_version called
+INFO 2019-06-11 17:25:18,207 mongo_connect 12358 140541686359808 Connection!
+INFO 2019-06-11 17:25:18,207 mongo_connect 12358 140541686359808 Connection Works!
+INFO 2019-06-11 17:25:24,273 hiera_vision_routes 12358 140541694752512 get_hiera_vision_client_collection_version called
+INFO 2019-06-11 17:25:24,275 mongo_connect 12358 140541694752512 Connection!
+INFO 2019-06-11 17:25:24,276 mongo_connect 12358 140541694752512 Connection Works!
+INFO 2019-06-11 17:25:30,069 hiera_vision_routes 12358 140541676394240 get_hiera_vision_client_collection_version called
+INFO 2019-06-11 17:25:30,073 mongo_connect 12358 140541676394240 Connection!
+INFO 2019-06-11 17:25:30,073 mongo_connect 12358 140541676394240 Connection Works!
+INFO 2019-06-11 17:25:57,755 hiera_vision_routes 12358 140541694752512 get_hiera_vision_client_collection_version called
+INFO 2019-06-11 17:25:57,781 mongo_connect 12358 140541694752512 Connection!
+INFO 2019-06-11 17:25:57,782 mongo_connect 12358 140541694752512 Connection Works!
+INFO 2019-06-11 17:26:26,933 hiera_vision_routes 12358 140541676394240 get_hiera_vision_client_collection_version called
+INFO 2019-06-11 17:26:26,953 mongo_connect 12358 140541676394240 Connection!
+INFO 2019-06-11 17:26:26,953 mongo_connect 12358 140541676394240 Connection Works!
+INFO 2019-06-11 17:26:47,145 app 12518 139705474369280 Started
+INFO 2019-06-11 17:26:52,920 app 12533 140192139659008 Started
+INFO 2019-06-11 17:26:53,843 app 12539 140606747514624 Started
+INFO 2019-06-11 17:27:03,208 hiera_vision_routes 12539 140606652606208 get_hiera_vision_client_collection_version called
+INFO 2019-06-11 17:27:03,253 mongo_connect 12539 140606652606208 Connection!
+INFO 2019-06-11 17:27:03,253 mongo_connect 12539 140606652606208 Connection Works!
+INFO 2019-06-11 17:28:34,541 hiera_evolv_routes 12539 140606635820800 get_hiera_evolv_client_collection_version called
+INFO 2019-06-11 17:28:34,545 mongo_connect 12539 140606635820800 Connection!
+INFO 2019-06-11 17:28:34,545 mongo_connect 12539 140606635820800 Connection Works!
+INFO 2019-06-11 17:28:44,069 hiera_evolv_routes 12539 140606644213504 get_hiera_evolv_client_collection_version called
+INFO 2019-06-11 17:28:44,071 mongo_connect 12539 140606644213504 Connection!
+INFO 2019-06-11 17:28:44,071 mongo_connect 12539 140606644213504 Connection Works!
+INFO 2019-06-11 17:28:47,548 hiera_evolv_routes 12539 140606652606208 get_hiera_evolv_client_collection_version called
+INFO 2019-06-11 17:28:47,549 mongo_connect 12539 140606652606208 Connection!
+INFO 2019-06-11 17:28:47,550 mongo_connect 12539 140606652606208 Connection Works!
+INFO 2019-06-11 17:28:52,764 hiera_evolv_routes 12539 140606635820800 get_hiera_evolv_client_collection_version called
+INFO 2019-06-11 17:28:52,767 mongo_connect 12539 140606635820800 Connection!
+INFO 2019-06-11 17:28:52,767 mongo_connect 12539 140606635820800 Connection Works!
+INFO 2019-06-11 17:28:54,079 hiera_evolv_routes 12539 140606644213504 get_hiera_evolv_client_collection_version called
+INFO 2019-06-11 17:28:54,081 mongo_connect 12539 140606644213504 Connection!
+INFO 2019-06-11 17:28:54,082 mongo_connect 12539 140606644213504 Connection Works!
+INFO 2019-06-11 17:29:00,467 hiera_evolv_routes 12539 140606652606208 get_hiera_evolv_client_collection_version called
+INFO 2019-06-11 17:29:00,469 mongo_connect 12539 140606652606208 Connection!
+INFO 2019-06-11 17:29:00,470 mongo_connect 12539 140606652606208 Connection Works!
+INFO 2019-06-11 17:29:04,290 hiera_evolv_routes 12539 140606635820800 get_hiera_evolv_client_collection_version called
+INFO 2019-06-11 17:29:04,318 mongo_connect 12539 140606635820800 Connection!
+INFO 2019-06-11 17:29:04,318 mongo_connect 12539 140606635820800 Connection Works!
+INFO 2019-06-11 17:29:08,111 hiera_evolv_routes 12539 140606652606208 get_hiera_evolv_client_collection_version called
+INFO 2019-06-11 17:29:08,114 mongo_connect 12539 140606652606208 Connection!
+INFO 2019-06-11 17:29:08,115 mongo_connect 12539 140606652606208 Connection Works!
+INFO 2019-06-11 17:29:19,388 hiera_evolv_routes 12539 140606644213504 get_hiera_evolv_client_collection_version called
+INFO 2019-06-11 17:29:19,413 mongo_connect 12539 140606644213504 Connection!
+INFO 2019-06-11 17:29:19,413 mongo_connect 12539 140606644213504 Connection Works!
+INFO 2019-06-11 17:31:10,874 app 12717 139831892756224 Started
+INFO 2019-06-11 17:31:11,553 app 12721 139762742286080 Started
+INFO 2019-06-11 17:31:23,852 hiera_avatar_routes 12721 139762647377664 get_hiera_avatar_client_collection_version called
+INFO 2019-06-11 17:31:23,855 mongo_connect 12721 139762647377664 Connection!
+INFO 2019-06-11 17:31:23,855 mongo_connect 12721 139762647377664 Connection Works!
+INFO 2019-06-11 17:32:18,108 app 12770 140320034404096 Started
+INFO 2019-06-11 17:32:35,400 hiera_avatar_routes 12770 140319869892352 get_hiera_avatar_client_collection_version called
+INFO 2019-06-11 17:32:35,403 mongo_connect 12770 140319869892352 Connection!
+INFO 2019-06-11 17:32:35,403 mongo_connect 12770 140319869892352 Connection Works!
+INFO 2019-06-11 17:35:48,162 hiera_avatar_routes 12770 140319861499648 get_hiera_avatar_client_collection_version called
+INFO 2019-06-11 17:35:48,165 mongo_connect 12770 140319861499648 Connection!
+INFO 2019-06-11 17:35:48,165 mongo_connect 12770 140319861499648 Connection Works!
+INFO 2019-06-12 13:21:52,465 app 9011 139637229491968 Started
+INFO 2019-06-12 13:21:53,489 app 9016 140499909555968 Started
+INFO 2019-06-12 13:22:20,240 hiera_vision_routes 9016 140499713255168 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:22:20,243 mongo_connect 9016 140499713255168 Connection!
+INFO 2019-06-12 13:22:20,243 mongo_connect 9016 140499713255168 Connection Works!
+INFO 2019-06-12 13:22:58,505 app 9059 139876852344576 Started
+INFO 2019-06-12 13:23:42,541 app 9088 140329461704448 Started
+INFO 2019-06-12 13:23:43,673 hiera_vision_routes 9088 140329357207296 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:23:43,675 mongo_connect 9088 140329357207296 Connection!
+INFO 2019-06-12 13:23:43,675 mongo_connect 9088 140329357207296 Connection Works!
+INFO 2019-06-12 13:24:45,416 app 9125 140472264881920 Started
+INFO 2019-06-12 13:24:48,411 hiera_vision_routes 9125 140472160384768 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:24:48,415 mongo_connect 9125 140472160384768 Connection!
+INFO 2019-06-12 13:24:48,418 mongo_connect 9125 140472160384768 Connection Works!
+INFO 2019-06-12 13:25:13,039 app 9155 140119389935360 Started
+INFO 2019-06-12 13:25:14,481 hiera_vision_routes 9155 140119214388992 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:25:14,483 mongo_connect 9155 140119214388992 Connection!
+INFO 2019-06-12 13:25:14,484 mongo_connect 9155 140119214388992 Connection Works!
+INFO 2019-06-12 13:25:55,172 app 9186 140549309765376 Started
+INFO 2019-06-12 13:25:57,561 hiera_vision_routes 9186 140549205268224 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:25:57,564 mongo_connect 9186 140549205268224 Connection!
+INFO 2019-06-12 13:25:57,568 mongo_connect 9186 140549205268224 Connection Works!
+INFO 2019-06-12 13:26:54,719 app 9227 139733704644352 Started
+INFO 2019-06-12 13:27:02,962 hiera_vision_routes 9227 139733600147200 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:27:02,997 mongo_connect 9227 139733600147200 Connection!
+INFO 2019-06-12 13:27:02,997 mongo_connect 9227 139733600147200 Connection Works!
+INFO 2019-06-12 13:27:36,489 app 9264 139854786762496 Started
+INFO 2019-06-12 13:27:39,621 hiera_vision_routes 9264 139854682265344 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:27:39,624 mongo_connect 9264 139854682265344 Connection!
+INFO 2019-06-12 13:27:39,624 mongo_connect 9264 139854682265344 Connection Works!
+INFO 2019-06-12 13:27:52,311 app 9287 139651352381184 Started
+INFO 2019-06-12 13:27:53,302 hiera_vision_routes 9287 139651247884032 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:27:53,315 mongo_connect 9287 139651247884032 Connection!
+INFO 2019-06-12 13:27:53,315 mongo_connect 9287 139651247884032 Connection Works!
+INFO 2019-06-12 13:28:10,955 app 9310 139839853987584 Started
+INFO 2019-06-12 13:28:11,952 hiera_vision_routes 9310 139839749490432 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:28:11,954 mongo_connect 9310 139839749490432 Connection!
+INFO 2019-06-12 13:28:11,955 mongo_connect 9310 139839749490432 Connection Works!
+INFO 2019-06-12 13:30:30,688 app 9380 140635045697280 Started
+INFO 2019-06-12 13:30:39,979 app 9390 140046848354048 Started
+INFO 2019-06-12 13:30:43,972 hiera_vision_routes 9390 140046669707008 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:30:43,976 mongo_connect 9390 140046669707008 Connection!
+INFO 2019-06-12 13:30:43,976 mongo_connect 9390 140046669707008 Connection Works!
+INFO 2019-06-12 13:32:20,128 app 9443 140549262378752 Started
+INFO 2019-06-12 13:32:39,309 hiera_vision_routes 9443 140549157881600 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:32:39,311 mongo_connect 9443 140549157881600 Connection!
+INFO 2019-06-12 13:32:39,312 mongo_connect 9443 140549157881600 Connection Works!
+INFO 2019-06-12 13:35:33,089 app 9539 140298015532800 Started
+INFO 2019-06-12 13:35:35,873 hiera_vision_routes 9539 140297911035648 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:35:35,876 mongo_connect 9539 140297911035648 Connection!
+INFO 2019-06-12 13:35:35,876 mongo_connect 9539 140297911035648 Connection Works!
+INFO 2019-06-12 13:37:20,377 app 9582 139854588933888 Started
+INFO 2019-06-12 13:37:22,715 hiera_vision_routes 9582 139854484436736 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:37:22,717 mongo_connect 9582 139854484436736 Connection!
+INFO 2019-06-12 13:37:22,717 mongo_connect 9582 139854484436736 Connection Works!
+INFO 2019-06-12 13:40:03,526 app 9654 139967407736576 Started
+INFO 2019-06-12 13:40:06,217 hiera_vision_routes 9654 139967303239424 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:40:06,220 mongo_connect 9654 139967303239424 Connection!
+INFO 2019-06-12 13:40:06,221 mongo_connect 9654 139967303239424 Connection Works!
+INFO 2019-06-12 13:40:24,363 hiera_vision_routes 9654 139967078594304 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:40:24,368 mongo_connect 9654 139967078594304 Connection!
+INFO 2019-06-12 13:40:24,369 mongo_connect 9654 139967078594304 Connection Works!
+INFO 2019-06-12 13:40:29,742 hiera_vision_routes 9654 139967294846720 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:40:29,745 mongo_connect 9654 139967294846720 Connection!
+INFO 2019-06-12 13:40:29,745 mongo_connect 9654 139967294846720 Connection Works!
+INFO 2019-06-12 13:40:40,429 app 9704 139976193054464 Started
+INFO 2019-06-12 13:40:41,740 hiera_vision_routes 9704 139976088557312 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:40:41,742 mongo_connect 9704 139976088557312 Connection!
+INFO 2019-06-12 13:40:41,742 mongo_connect 9704 139976088557312 Connection Works!
+INFO 2019-06-12 13:41:05,504 app 9730 140632863688448 Started
+INFO 2019-06-12 13:41:05,917 hiera_vision_routes 9730 140632759191296 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:41:05,920 mongo_connect 9730 140632759191296 Connection!
+INFO 2019-06-12 13:41:05,920 mongo_connect 9730 140632759191296 Connection Works!
+INFO 2019-06-12 13:41:43,184 app 9761 139652673062656 Started
+INFO 2019-06-12 13:41:44,221 hiera_vision_routes 9761 139652568565504 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:41:44,226 mongo_connect 9761 139652568565504 Connection!
+INFO 2019-06-12 13:41:44,227 mongo_connect 9761 139652568565504 Connection Works!
+INFO 2019-06-12 13:42:34,658 app 9794 140419534681856 Started
+INFO 2019-06-12 13:42:39,089 hiera_vision_routes 9794 140419430184704 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:42:39,092 mongo_connect 9794 140419430184704 Connection!
+INFO 2019-06-12 13:42:39,092 mongo_connect 9794 140419430184704 Connection Works!
+INFO 2019-06-12 13:43:48,276 hiera_vision_routes 9794 140419430184704 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:43:48,280 mongo_connect 9794 140419430184704 Connection!
+INFO 2019-06-12 13:43:48,280 mongo_connect 9794 140419430184704 Connection Works!
+INFO 2019-06-12 13:44:20,912 app 9857 140657911424768 Started
+INFO 2019-06-12 13:44:22,619 hiera_vision_routes 9857 140657806927616 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:44:22,622 mongo_connect 9857 140657806927616 Connection!
+INFO 2019-06-12 13:44:22,623 mongo_connect 9857 140657806927616 Connection Works!
+INFO 2019-06-12 13:44:53,980 app 9889 140003105310464 Started
+INFO 2019-06-12 13:44:54,748 hiera_vision_routes 9889 140003000813312 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:44:54,752 mongo_connect 9889 140003000813312 Connection!
+INFO 2019-06-12 13:44:54,752 mongo_connect 9889 140003000813312 Connection Works!
+INFO 2019-06-12 13:45:24,207 app 9925 139621876725504 Started
+INFO 2019-06-12 13:45:25,597 hiera_vision_routes 9925 139621772228352 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:45:25,598 mongo_connect 9925 139621772228352 Connection!
+INFO 2019-06-12 13:45:25,599 mongo_connect 9925 139621772228352 Connection Works!
+INFO 2019-06-12 13:46:29,053 app 9966 139894194333440 Started
+INFO 2019-06-12 13:46:32,373 hiera_vision_routes 9966 139894089836288 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:46:32,376 mongo_connect 9966 139894089836288 Connection!
+INFO 2019-06-12 13:46:32,376 mongo_connect 9966 139894089836288 Connection Works!
+INFO 2019-06-12 13:46:51,150 app 9989 140331912603392 Started
+INFO 2019-06-12 13:47:05,822 hiera_vision_routes 9989 140331808106240 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:47:05,824 mongo_connect 9989 140331808106240 Connection!
+INFO 2019-06-12 13:47:05,824 mongo_connect 9989 140331808106240 Connection Works!
+INFO 2019-06-12 13:47:44,579 app 10032 139950000736000 Started
+INFO 2019-06-12 13:47:46,932 hiera_vision_routes 10032 139949896500992 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:47:46,934 mongo_connect 10032 139949896500992 Connection!
+INFO 2019-06-12 13:47:46,934 mongo_connect 10032 139949896500992 Connection Works!
+INFO 2019-06-12 13:48:16,443 hiera_vision_routes 10032 139949887846144 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:48:16,445 mongo_connect 10032 139949887846144 Connection!
+INFO 2019-06-12 13:48:16,445 mongo_connect 10032 139949887846144 Connection Works!
+INFO 2019-06-12 13:51:00,024 app 10119 139811129444096 Started
+INFO 2019-06-12 13:51:00,091 hiera_vision_routes 10119 139811025209088 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:51:00,101 mongo_connect 10119 139811025209088 Connection!
+INFO 2019-06-12 13:51:00,101 mongo_connect 10119 139811025209088 Connection Works!
+INFO 2019-06-12 13:51:18,859 app 10142 140181065656064 Started
+INFO 2019-06-12 13:51:19,517 hiera_vision_routes 10142 140180887435008 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:51:19,525 mongo_connect 10142 140180887435008 Connection!
+INFO 2019-06-12 13:51:19,525 mongo_connect 10142 140180887435008 Connection Works!
+INFO 2019-06-12 13:52:05,176 app 10177 139639124502272 Started
+INFO 2019-06-12 13:52:05,230 hiera_vision_routes 10177 139639020267264 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:52:05,235 mongo_connect 10177 139639020267264 Connection!
+INFO 2019-06-12 13:52:05,235 mongo_connect 10177 139639020267264 Connection Works!
+INFO 2019-06-12 13:52:34,451 app 10205 139848854845184 Started
+INFO 2019-06-12 13:52:35,094 hiera_vision_routes 10205 139848750610176 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:52:35,099 mongo_connect 10205 139848750610176 Connection!
+INFO 2019-06-12 13:52:35,099 mongo_connect 10205 139848750610176 Connection Works!
+INFO 2019-06-12 13:53:05,780 app 10233 140469087889152 Started
+INFO 2019-06-12 13:53:05,820 hiera_vision_routes 10233 140468983654144 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:53:05,822 mongo_connect 10233 140468983654144 Connection!
+INFO 2019-06-12 13:53:05,822 mongo_connect 10233 140468983654144 Connection Works!
+INFO 2019-06-12 13:53:25,551 app 10260 140330451441408 Started
+INFO 2019-06-12 13:53:25,714 hiera_vision_routes 10260 140330271766272 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:53:25,727 mongo_connect 10260 140330271766272 Connection!
+INFO 2019-06-12 13:53:25,728 mongo_connect 10260 140330271766272 Connection Works!
+INFO 2019-06-12 13:54:09,027 hiera_vision_routes 10260 140330254980864 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:54:09,029 mongo_connect 10260 140330254980864 Connection!
+INFO 2019-06-12 13:54:09,030 mongo_connect 10260 140330254980864 Connection Works!
+INFO 2019-06-12 13:54:27,033 hiera_vision_routes 10260 140330271766272 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:54:27,035 mongo_connect 10260 140330271766272 Connection!
+INFO 2019-06-12 13:54:27,035 mongo_connect 10260 140330271766272 Connection Works!
+INFO 2019-06-12 13:54:52,850 app 10330 139768222074624 Started
+INFO 2019-06-12 13:54:52,903 hiera_vision_routes 10330 139768117839616 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:54:52,940 mongo_connect 10330 139768117839616 Connection!
+INFO 2019-06-12 13:54:52,940 mongo_connect 10330 139768117839616 Connection Works!
+INFO 2019-06-12 13:55:06,066 hiera_vision_routes 10330 139768025310976 get_hiera_vision_client_collection_version called
+INFO 2019-06-12 13:55:06,069 mongo_connect 10330 139768025310976 Connection!
+INFO 2019-06-12 13:55:06,069 mongo_connect 10330 139768025310976 Connection Works!
+INFO 2019-06-12 13:58:40,009 app 10417 140632879957760 Started
+INFO 2019-06-12 14:44:35,369 app 15875 140101307385600 Started
+INFO 2019-06-18 09:17:44,250 mongo_connect 32623 140086903101184 Connection!
+INFO 2019-06-18 09:17:44,268 mongo_connect 32623 140086903101184 Connection Works!
+DEBUG 2019-06-18 15:12:17,483 task_controller 32623 140086903101184 update_web_version called
+DEBUG 2019-06-18 15:13:46,627 task_controller 32623 140086903101184 update_web_version called
+DEBUG 2019-06-18 15:13:52,536 task_controller 32623 140086903101184 update_web_version called
+DEBUG 2019-06-18 15:14:48,064 task_controller 32623 140086903101184 update_web_version called
+DEBUG 2019-06-18 15:15:00,964 task_controller 25166 140465467549440 update_web_version called
+INFO 2019-06-18 15:15:01,125 mongo_controller 25166 140465467549440 update_vision_client_web_document called
+INFO 2019-06-18 15:15:01,127 mongo_connect 25166 140465467549440 Connection!
+INFO 2019-06-18 15:15:01,127 mongo_connect 25166 140465467549440 Connection Works!
+DEBUG 2019-06-18 15:21:06,542 task_controller 25617 140687672674048 update_web_version called
+INFO 2019-06-18 15:21:06,735 mongo_controller 25617 140687672674048 update_vision_client_web_document called
+INFO 2019-06-18 15:21:06,748 mongo_connect 25617 140687672674048 Connection!
+INFO 2019-06-18 15:21:06,748 mongo_connect 25617 140687672674048 Connection Works!
+DEBUG 2019-06-18 15:22:35,266 task_controller 25777 140021616506624 update_web_version called
+DEBUG 2019-06-18 15:25:59,567 task_controller 26025 140149631289088 update_web_version called
+INFO 2019-06-18 15:25:59,753 mongo_controller 26025 140149631289088 update_vision_client_web_document called
+INFO 2019-06-18 15:25:59,755 mongo_connect 26025 140149631289088 Connection!
+INFO 2019-06-18 15:25:59,756 mongo_connect 26025 140149631289088 Connection Works!
+DEBUG 2019-06-18 15:28:02,773 task_controller 26025 140149631289088 update_web_version called
+INFO 2019-06-18 15:28:02,951 mongo_controller 26025 140149631289088 update_vision_client_web_document called
+INFO 2019-06-18 15:28:02,963 mongo_connect 26025 140149631289088 Connection!
+INFO 2019-06-18 15:28:02,964 mongo_connect 26025 140149631289088 Connection Works!
+DEBUG 2019-06-18 15:28:12,556 task_controller 26222 140211564398336 update_web_version called
+INFO 2019-06-18 15:28:12,757 mongo_controller 26222 140211564398336 update_vision_client_web_document called
+INFO 2019-06-18 15:28:12,759 mongo_connect 26222 140211564398336 Connection!
+INFO 2019-06-18 15:28:12,759 mongo_connect 26222 140211564398336 Connection Works!
+INFO 2019-06-18 15:28:12,775 task_controller 26222 140211564398336 Successful update of client mongo document
+DEBUG 2019-06-18 15:29:02,351 task_controller 26313 139926571153152 update_web_version called
+INFO 2019-06-18 15:29:02,529 task_controller 26313 139926571153152 Successfully pulled latest version from artifactory: 9.3.4
+INFO 2019-06-18 15:29:02,529 mongo_controller 26313 139926571153152 update_vision_client_web_document called
+INFO 2019-06-18 15:29:02,551 mongo_connect 26313 139926571153152 Connection!
+INFO 2019-06-18 15:29:02,551 mongo_connect 26313 139926571153152 Connection Works!
+INFO 2019-06-18 15:29:02,566 task_controller 26313 139926571153152 Successful update of client mongo document
+DEBUG 2019-06-18 15:29:52,197 task_controller 26408 140531301373696 update_web_version called
+INFO 2019-06-18 15:29:52,422 task_controller 26408 140531301373696 Successfully pulled latest version from artifactory: 9.3.4
+INFO 2019-06-18 15:29:52,422 mongo_controller 26408 140531301373696 update_vision_client_web_document called
+INFO 2019-06-18 15:29:52,425 mongo_connect 26408 140531301373696 Connection!
+INFO 2019-06-18 15:29:52,425 mongo_connect 26408 140531301373696 Connection Works!
+INFO 2019-06-18 15:29:52,442 task_controller 26408 140531301373696 Successful update of client mongo document to 9.3.4

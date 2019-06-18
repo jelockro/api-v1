@@ -1,18 +1,36 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 from flask import Flask
 from routes.mongo_router import mongo
 from routes.puppet_router import puppet
 from proj import tasks
-
+try:
+    from hiera_evolv_routes import hiera_evolv
+except ImportError:
+    print("hiera_evolv routes don't exist yet")
+try:
+    from hiera_vision_routes import hiera_vision
+except ImportError:
+    print("hiera_vision routes don't exist yet")
 from setup_logger import logger
-
+from hiera_avatar_routes import hiera_avatar
+from helpers.checks import checks
 app = Flask(__name__)
 
 
 # blueprint configuration
 app.register_blueprint(mongo)
 app.register_blueprint(puppet)
+app.register_blueprint(hiera_avatar)
+app.register_blueprint(checks)
+try:
+    app.register_blueprint(hiera_evolv)
+except NameError:
+    print('hiera_evolv blueprint not implemented.')
+try:
+    app.register_blueprint(hiera_vision)
+except NameError:
+    print('hiera_vision blueprint not implemented.')
 app.debug = True
 
 
