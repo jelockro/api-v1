@@ -12,6 +12,7 @@ try:
     from hiera_vision_routes import hiera_vision
 except ImportError:
     print("hiera_vision routes don't exist yet")
+from upgrade import upgrade
 from setup_logger import logger
 from hiera_avatar_routes import hiera_avatar
 from helpers.checks import checks
@@ -23,6 +24,7 @@ app.register_blueprint(mongo)
 app.register_blueprint(puppet)
 app.register_blueprint(hiera_avatar)
 app.register_blueprint(checks)
+app.register_blueprint(upgrade)
 try:
     app.register_blueprint(hiera_evolv)
 except NameError:

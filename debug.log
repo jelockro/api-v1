@@ -1121,3 +1121,62 @@ INFO 2019-06-18 15:29:52,422 mongo_controller 26408 140531301373696 update_visio
 INFO 2019-06-18 15:29:52,425 mongo_connect 26408 140531301373696 Connection!
 INFO 2019-06-18 15:29:52,425 mongo_connect 26408 140531301373696 Connection Works!
 INFO 2019-06-18 15:29:52,442 task_controller 26408 140531301373696 Successful update of client mongo document to 9.3.4
+INFO 2019-06-20 09:33:36,575 app 4512 140031262664448 Started
+INFO 2019-06-20 09:33:38,380 app 4516 140075583080192 Started
+INFO 2019-06-20 09:33:56,052 hiera_vision_routes 4516 140075479631616 get_hiera_vision_client_collection_version called
+INFO 2019-06-20 09:33:56,054 mongo_connect 4516 140075479631616 Connection!
+INFO 2019-06-20 09:33:56,054 mongo_connect 4516 140075479631616 Connection Works!
+INFO 2019-06-20 09:34:58,508 hiera_vision_routes 4516 140075470976768 get_hiera_vision_client_collection_version called
+INFO 2019-06-20 09:34:58,514 mongo_connect 4516 140075470976768 Connection!
+INFO 2019-06-20 09:34:58,514 mongo_connect 4516 140075470976768 Connection Works!
+INFO 2019-06-20 09:35:29,103 hiera_vision_routes 4516 140075479631616 get_hiera_vision_client_collection_version called
+INFO 2019-06-20 09:35:29,105 mongo_connect 4516 140075479631616 Connection!
+INFO 2019-06-20 09:35:29,106 mongo_connect 4516 140075479631616 Connection Works!
+INFO 2019-06-20 09:35:35,590 hiera_vision_routes 4516 140075258083072 get_hiera_vision_client_collection_version called
+INFO 2019-06-20 09:35:35,592 mongo_connect 4516 140075258083072 Connection!
+INFO 2019-06-20 09:35:35,593 mongo_connect 4516 140075258083072 Connection Works!
+INFO 2019-06-20 09:35:40,063 hiera_vision_routes 4516 140075479631616 get_hiera_vision_client_collection_version called
+INFO 2019-06-20 09:35:40,066 mongo_connect 4516 140075479631616 Connection!
+INFO 2019-06-20 09:35:40,067 mongo_connect 4516 140075479631616 Connection Works!
+INFO 2019-06-20 09:36:26,300 hiera_vision_routes 4516 140075258083072 get_hiera_vision_client_collection_version called
+INFO 2019-06-20 09:36:26,304 mongo_connect 4516 140075258083072 Connection!
+INFO 2019-06-20 09:36:26,305 mongo_connect 4516 140075258083072 Connection Works!
+INFO 2019-06-20 09:36:31,926 hiera_vision_routes 4516 140075470976768 get_hiera_vision_client_collection_version called
+INFO 2019-06-20 09:36:31,928 mongo_connect 4516 140075470976768 Connection!
+INFO 2019-06-20 09:36:31,928 mongo_connect 4516 140075470976768 Connection Works!
+INFO 2019-06-20 09:43:53,537 app 5023 139847589541632 Started
+INFO 2019-06-20 09:44:03,720 hiera_vision_routes 5023 139847486093056 get_hiera_vision_client_collection_version called
+INFO 2019-06-20 09:44:03,735 mongo_connect 5023 139847486093056 Connection!
+INFO 2019-06-20 09:44:03,736 mongo_connect 5023 139847486093056 Connection Works!
+INFO 2019-06-20 09:44:47,522 hiera_vision_routes 5023 139847469045504 get_hiera_vision_client_collection_version called
+INFO 2019-06-20 09:44:47,523 mongo_connect 5023 139847469045504 Connection!
+INFO 2019-06-20 09:44:47,523 mongo_connect 5023 139847469045504 Connection Works!
+INFO 2019-06-20 09:45:19,708 hiera_vision_routes 5023 139847486093056 get_hiera_vision_client_collection_version called
+INFO 2019-06-20 09:45:19,712 mongo_connect 5023 139847486093056 Connection!
+INFO 2019-06-20 09:45:19,734 mongo_connect 5023 139847486093056 Connection Works!
+DEBUG 2019-06-20 09:47:13,794 task_controller 5023 139847477438208 update_web_version called
+INFO 2019-06-20 09:47:14,034 task_controller 5023 139847477438208 Successfully pulled latest version from artifactory: 9.3.4
+INFO 2019-06-20 09:47:14,035 mongo_controller 5023 139847477438208 update_vision_client_web_document called
+INFO 2019-06-20 09:47:14,037 mongo_connect 5023 139847477438208 Connection!
+INFO 2019-06-20 09:47:14,038 mongo_connect 5023 139847477438208 Connection Works!
+INFO 2019-06-20 09:47:14,077 task_controller 5023 139847477438208 Successful update of client mongo document to 9.3.4
+INFO 2019-06-20 09:49:59,288 app 5225 140111971165952 Started
+INFO 2019-06-20 09:50:06,915 upgrade 5225 140111867717376 upgrade_vision_web_version route called
+DEBUG 2019-06-20 09:50:06,916 task_controller 5225 140111867717376 update_web_version called
+INFO 2019-06-20 09:50:07,176 task_controller 5225 140111867717376 Successfully pulled latest version from artifactory: 9.3.4
+INFO 2019-06-20 09:50:07,177 mongo_controller 5225 140111867717376 update_vision_client_web_document called
+INFO 2019-06-20 09:50:07,179 mongo_connect 5225 140111867717376 Connection!
+INFO 2019-06-20 09:50:07,179 mongo_connect 5225 140111867717376 Connection Works!
+INFO 2019-06-20 09:50:07,210 task_controller 5225 140111867717376 Successful update of client mongo document to 9.3.4
+INFO 2019-07-10 09:35:53,713 app 5853 140711294056192 Started
+INFO 2019-07-10 09:35:57,172 app 5857 139875800114944 Started
+INFO 2019-07-10 09:36:00,755 hiera_vision_routes 5857 139875696666368 get_hiera_vision_client_collection_version called
+INFO 2019-07-10 09:36:00,758 mongo_connect 5857 139875696666368 Connection!
+INFO 2019-07-10 09:36:00,758 mongo_connect 5857 139875696666368 Connection Works!
+INFO 2019-07-10 09:36:06,694 upgrade 5857 139875696666368 upgrade_vision_web_version route called
+DEBUG 2019-07-10 09:36:06,695 task_controller 5857 139875696666368 update_web_version called
+INFO 2019-07-10 09:36:06,965 task_controller 5857 139875696666368 Successfully pulled latest version from artifactory: 9.3.5
+INFO 2019-07-10 09:36:06,966 mongo_controller 5857 139875696666368 update_vision_client_web_document called
+INFO 2019-07-10 09:36:06,968 mongo_connect 5857 139875696666368 Connection!
+INFO 2019-07-10 09:36:06,970 mongo_connect 5857 139875696666368 Connection Works!
+INFO 2019-07-10 09:36:07,004 task_controller 5857 139875696666368 Successful update of client mongo document to 9.3.5
