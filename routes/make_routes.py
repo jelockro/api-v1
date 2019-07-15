@@ -2,7 +2,7 @@ import sys
 import os
 import argparse
 import json
-sys.path.append(os.path.abspath(os.path.join('..', 'controllers')))
+sys.path.append(os.path.abspath(os.path.join('..', 'task_runner')))
 sys.path.append(os.path.abspath(os.path.join('..', 'helpers')))
 sys.path.insert(1, os.path.join(sys.path[0], '..'))
 sys.path.append('~/home/vagrant/api_v1/application_package')
@@ -69,7 +69,7 @@ def main(parent, database, client_id):
     w = open(filepath, 'w')
     w.write(
 """from flask import Blueprint
-from controllers.mongo_controller import *
+from task_runner.mongo_controller import *
 from setup_logger import logger, error_logger
 {} = Blueprint('{}', __name__)
 \n

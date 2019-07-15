@@ -1,8 +1,9 @@
-from helpers.mongo_connect import MongoDB
-from setup_logger import logger, error_logger
+from mongo.mongo_connect import MongoDB
+from setup_logger import logger
+
 HOST = 'localhost'
 import json
-from bson import json_util
+
 
 def call_mongo():
     logger.info('Watch out!') 

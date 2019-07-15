@@ -1,5 +1,5 @@
-from .artifactory_controller import get_latest_vision_web_version
-from .mongo_controller import update_vision_client_web_version
+from artifactory.artifactory_controller import get_latest_vision_web_version
+from mongo.mongo_controller import update_vision_client_web_version
 import json
 from setup_logger import *
 

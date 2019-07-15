@@ -1,6 +1,7 @@
 from flask import Blueprint
-from controllers.mongo_controller import *
-from setup_logger import logger, error_logger
+from mongo.mongo_controller import *
+from setup_logger import logger
+
 mongo = Blueprint('mongo', __name__)
 
 

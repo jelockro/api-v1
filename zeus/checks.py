@@ -1,9 +1,8 @@
 from flask import Blueprint
-from controllers.artifactory_controller import get_latest_vision_web_version
-from hiera_vision_routes import vision_environments_live_web_version
-from controllers.mongo_controller import *
+from artifactory.artifactory_controller import get_latest_vision_web_version
+from mongo.routes.hiera_vision_routes import vision_environments_live_web_version
 import json
-from setup_logger import logger, error_logger
+
 checks = Blueprint('checks', __name__)
 
 

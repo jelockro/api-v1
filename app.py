@@ -1,21 +1,22 @@
 #!/usr/bin/env python3
 
 from flask import Flask
-from routes.mongo_router import mongo
-from routes.puppet_router import puppet
-from proj import tasks
+from mongo.routes.mongo_router import mongo
+from puppet.puppet_router import puppet
+from task_runner import tasks
+
 try:
-    from hiera_evolv_routes import hiera_evolv
+    from mongo.routes.hiera_evolv_routes import hiera_evolv
 except ImportError:
     print("hiera_evolv routes don't exist yet")
 try:
-    from hiera_vision_routes import hiera_vision
+    from mongo.routes.hiera_vision_routes import hiera_vision
 except ImportError:
     print("hiera_vision routes don't exist yet")
-from upgrade import upgrade
+from zeus.upgrade import upgrade
 from setup_logger import logger
-from hiera_avatar_routes import hiera_avatar
-from helpers.checks import checks
+from mongo.routes.hiera_avatar_routes import hiera_avatar
+from zeus.checks import checks
 app = Flask(__name__)
 
 
@@ -49,7 +50,7 @@ def process(name):
 #@app.route('/status/<celery_task_id>')
 
 
-# @celery.task(name='app.reverse')
+# @task_runner.task(name='app.reverse')
 # def reverse(string):
 #     return string[::-1]
 

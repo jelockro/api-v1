@@ -1,5 +1,5 @@
 from __future__ import absolute_import, unicode_literals
-from .celery import worker
+from task_runner.celery import worker
 
 @worker.task
 def reverse(string):

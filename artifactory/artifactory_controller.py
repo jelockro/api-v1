@@ -1,5 +1,6 @@
 import logging, sys, json
 import requests
+from setup_logger import logger
 sys.path.append('/home/vagrant/api_v1/application_package/routes')
 import ast
 
@@ -33,9 +34,13 @@ def get_latest_vision_web_version():
     #     print('API_KEY doesnt work')
     _headers = {'X-JFrog-ART-Api': 'AKCp5Z3BiscJvzCUp58prVrh4pR8fcPpXBGza81ZjMNqsxiz6yxhKETkBM1HLeuSSnp9jfeMs',
                 'Content-Type': 'application/json'}
-
-    r = requests.get("http://npcrepo.netsmartcore.lan:8081/artifactory/api/search/latestVersion?g=web&a=vision", headers=_headers)
-    return json.dumps(r.content.decode())
+    logger.info('Creating artifactory Connection..')
+    try:
+        r = requests.get("http://npcrepo.netsmartcore.lan:8081/artifactory/api/search/latestVersion?g=web&a=vision", headers=_headers)
+        logger.info('request was made to artifactory')
+        return json.dumps(r.content.decode())
+    except RuntimeError:
+        logger.debu('artifactory request failed')
 
 #artifacts = path.aql("items.find", {"repo": "docker"})
 #printnested(artifacts, 0)

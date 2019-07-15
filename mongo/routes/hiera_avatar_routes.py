@@ -1,6 +1,7 @@
 from flask import Blueprint
-from controllers.mongo_controller import *
-from setup_logger import logger, error_logger
+from mongo.mongo_controller import *
+from setup_logger import logger
+
 hiera_avatar = Blueprint('hiera_avatar', __name__)
 
 
