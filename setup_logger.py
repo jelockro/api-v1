@@ -1,60 +1,15 @@
+import json
+import os
 import logging
-import logging.config
-import logging.handlers
-# logging.basicConfig(filename='myapp.log', level=logging.DEBUG)
-# logger = logging.getLogger('spam')
-#
-# mlogger =
+logger = logging.getLogger()
+logger.setLevel(logging.INFO)
 
-
-CONFIG = {
-    'version': 1,
-    'disable_existing_loggers': True,
-    'formatters': {
-        'verbose': {
-            'format': '%(levelname)s %(asctime)s %(module)s %(process)d %(thread)d %(message)s'
-        },
-        'simple': {
-            'format': '%(levelname)s %(message)s'
-        },
-    },
-    'handlers': {
-        'debug_file': {
-            'level': 'DEBUG',
-            'class': 'logging.FileHandler',
-            'filename': 'debug.log',
-            'formatter': 'verbose'
-        },
-        'console':{
-            'level': 'DEBUG',
-            'class': 'logging.StreamHandler',
-            'formatter': 'simple'
-        }
-    },
-    'loggers': {
-        'log_file': {
-            'handlers': ['debug_file', 'console'],
-            'propagate': True,
-            'level': 'DEBUG'
-        },
-        'error': {
-            'handlers': ['console'],
-            'propagate': True,
-            'level': 'CRITICAL'
-        },
-        # 'django.request': {
-        #     'handlers': ['mail_admins'],
-        #     'level': 'ERROR',
-        #     'propagate': False,
-        # },
-        # 'myproject.custom': {
-        #     'handlers': ['console', 'mail_admins'],
-        #     'level': 'INFO',
-        #     'filters': ['special']
-        # }
+def lambda_handler(event, context):
+    logger.info('## ENVIRONMENT VARIABLES')
+    logger.info(os.environ)
+    logger.info('## EVENT')
+    logger.info(event)
+    return {
+        'statusCode': 200,
+        'body': json.dumps('Hello from Lambda!')
     }
-}
-
-logging.config.dictConfig(CONFIG)
-logger = logging.getLogger('log_file')
-error_logger = logging.getLogger('error')

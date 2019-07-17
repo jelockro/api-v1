@@ -18,11 +18,11 @@ def init_logging():
 #         print(p)
 # except RuntimeError:
 #     print('API_KEY doesnt work')
-_headers={'X-JFrog-ART-Api':'AKCp5Z3BiscJvzCUp58prVrh4pR8fcPpXBGza81ZjMNqsxiz6yxhKETkBM1HLeuSSnp9jfeMs',
-         'Content-Type': 'application/json' }
-
-r = requests.get("http://npcrepo.netsmartcore.lan:8081/artifactory/api/repositories", headers=_headers)
-repositories = r.content
+# _headers={'X-JFrog-ART-Api':'AKCp5Z3BiscJvzCUp58prVrh4pR8fcPpXBGza81ZjMNqsxiz6yxhKETkBM1HLeuSSnp9jfeMs',
+#          'Content-Type': 'application/json' }
+#
+# r = requests.get("http://npcrepo.netsmartcore.lan:8081/artifactory/api/repositories", headers=_headers)
+# repositories = r.content
 
 # x = ast.literal_eval(repositories.decode('utf-8'))
 # print(type(x), ": ", x)
@@ -40,7 +40,7 @@ def get_latest_vision_web_version():
         logger.info('request was made to artifactory')
         return json.dumps(r.content.decode())
     except RuntimeError:
-        logger.debu('artifactory request failed')
+        logger.debug('artifactory request failed')
 
 #artifacts = path.aql("items.find", {"repo": "docker"})
 #printnested(artifacts, 0)
