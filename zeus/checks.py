@@ -2,6 +2,7 @@ from flask import Blueprint
 from artifactory.artifactory_controller import get_latest_vision_web_version
 from mongo.routes.hiera_vision_routes import vision_environments_live_web_version
 from Bolt.bolt_controller import bolt_upgrade_vision
+from zeus.task_controller import set_web_version
 import json
 
 checks = Blueprint('checks', __name__)
@@ -21,6 +22,12 @@ def vision_environments_uat_db(client_id):
     print('artifactory latest version: ', latest_ver, "<---", type(latest_ver))
     json_dict['artifactory_latest_ver'] = latest_ver
     return json.dumps(json_dict)
+
+@checks.route("/vision/upgrade/<client_id>/<version>")
+def vision_web_upgrade_set(client_id, version):
+    results = set_web_version(client_id, version)
+    return results
+
 
 
 @checks.route("/vision/<client_id>")

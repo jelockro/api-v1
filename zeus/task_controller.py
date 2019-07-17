@@ -21,3 +21,17 @@ def update_web_version(solution, client_id):
     except RuntimeError:
         logger.warning('unable to update client mongo record to latest web version.')
     return json.dumps(successMessage)
+
+
+def set_web_version(client_id, _version):
+    logger.debug('update_web_version called')
+    client_id_str = str(client_id)
+    version = _version
+    try:
+        update_vision_client_web_version(client_id_str, version)
+        successMessage="Successful update of client mongo document to {}".format(version)
+        logger.info(successMessage)
+    except RuntimeError:
+        logger.warning('unable to update client mongo record to latest web version.')
+    return json.dumps(successMessage)
+
