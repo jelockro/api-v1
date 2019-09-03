@@ -3,7 +3,6 @@
 from flask import Flask
 from mongo.routes.mongo_router import mongo
 from puppet.puppet_router import puppet
-from task_runner import tasks
 
 try:
     from mongo.routes.hiera_evolv_routes import hiera_evolv
@@ -41,11 +40,6 @@ app.debug = True
 def index():
     return 'Api Gateway'
 
-@app.route('/process/<name>')
-def process(name):
-    tasks.reverse.delay(name)
-    return 'I sent an async reqeust!'
-
 
 #@app.route('/status/<celery_task_id>')
 
@@ -56,4 +50,4 @@ def process(name):
 
 if __name__ == '__main__':
     logger.info('Started')
-    app.run(host='0.0.0.0', port=50c00)
+    app.run(host='0.0.0.0', port=5000)
