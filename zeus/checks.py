@@ -12,15 +12,14 @@ import json
 loop = asyncio.get_event_loop()
 checks = Blueprint('checks', __name__)
 async def fetch(url):
-    async with aiohttp.ClientSession() as session, async_timeout.timeout(10):
+    async with aiohttp.ClientSession() as session, async_timeout.timeout(30):
         async with session.get(url) as response:
             return await response.text()
 
 @checks.route("/bolt/test")
 def test_zeus_connection():
-    res = loop.run_until_complete(asyncio.gather(
-        fetch("https://zeus.netsmartcloud.com/bolt/test/12345")
-    ))
+    res = loop.run_until_complete(fetch("https://zeus.netsmartcloud.com/bolt/test/12345")
+    )
     return res
 
 @checks.route("/vision/<client_id>/webcheck")
