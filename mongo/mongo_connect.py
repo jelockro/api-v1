@@ -1,6 +1,5 @@
 from pymongo import *
 import sys, json
-import pprint
 from bson import json_util
 
 from setup_logger import logger
@@ -18,7 +17,7 @@ class MongoDB:
             from urllib import quote_plus
         uri = "mongodb://%s:%s@%s" % (
             quote_plus('NetsmartAdmin'), quote_plus('Netsmart99'), HOST)
-        connection = MongoClient(uri, 27017)
+        connection = MongoClient(uri, 443)
         logger.info('Connection!') 
         if connection is None:
             # logfile.debug('Unable to connect to mongo database: %s', uri)

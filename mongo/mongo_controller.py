@@ -1,7 +1,7 @@
 from mongo.mongo_connect import MongoDB
 from setup_logger import logger
 
-HOST = 'localhost'
+HOST = 'Mongo.netsmartcloud.com'
 import json
 
 

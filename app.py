@@ -3,7 +3,7 @@
 from flask import Flask
 from mongo.routes.mongo_router import mongo
 from puppet.puppet_router import puppet
-
+import asyncio
 try:
     from mongo.routes.hiera_evolv_routes import hiera_evolv
 except ImportError:
@@ -16,6 +16,8 @@ from zeus.upgrade import upgrade
 from setup_logger import logger
 from mongo.routes.hiera_avatar_routes import hiera_avatar
 from zeus.checks import checks
+
+
 app = Flask(__name__)
 
 

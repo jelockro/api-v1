@@ -1,7 +1,0 @@
-INFO 2019-07-15 11:55:15,592 app 9299 140399883609856 Started
-INFO 2019-07-15 11:55:16,626 app 9303 139878282249984 Started
-INFO 2019-07-15 11:55:21,508 hiera_vision_routes 9303 139878169626368 get_hiera_vision_client_collection_version called
-INFO 2019-07-15 11:55:21,512 mongo_connect 9303 139878169626368 Connection!
-INFO 2019-07-15 11:55:21,512 mongo_connect 9303 139878169626368 Connection Works!
-INFO 2019-07-15 11:55:21,545 artifactory_controller 9303 139878169626368 Creating artifactory Connection..
-INFO 2019-07-15 11:55:21,778 artifactory_controller 9303 139878169626368 request was made to artifactory
