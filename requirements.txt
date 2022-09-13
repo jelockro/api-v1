@@ -12,7 +12,7 @@ dohq-artifactory==0.4.108
 Flask==1.0.2
 Flask-Migrate==2.5.1
 Flask-SQLAlchemy==2.4.0
-flower==0.9.3
+flower==1.2.0
 idna==2.8
 itsdangerous==1.1.0
 Jinja2==2.10.1
